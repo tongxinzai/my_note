@@ -1,0 +1,19 @@
+{
+  "showStatusBarItem": true,
+  "filterSettings": {
+    "FeaturedFirst": false,
+    "StrictSearch": false,
+    "HighlightCustom": false,
+    "HighlightDuplicates": false,
+    "DisplayWOhotkeys": false,
+    "DisplayIDs": false
+  },
+  "featuredCommandIDs": [
+    "command-palette:open",
+    "global-search:open",
+    "file-explorer:new-file",
+    "workspace:edit-file-title",
+    "obsidian-outliner:unfold",
+    "obsidian-outliner:fold"
+  ]
+}

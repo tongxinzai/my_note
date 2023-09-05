@@ -1,0 +1,10 @@
+{
+  "promptDelete": false,
+  "newLinkFormat": "relative",
+  "newFileLocation": "current",
+  "newFileFolderPath": "/",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "编程相关",
+  "alwaysUpdateLinks": true,
+  "tabSize": 4
+}

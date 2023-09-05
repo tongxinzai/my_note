@@ -1,0 +1,209 @@
+{
+  "recentFiles": [
+    {
+      "basename": "git相关问题",
+      "path": "实用工具/小知识/git相关问题.md"
+    },
+    {
+      "basename": "计算机软件配置",
+      "path": "实用工具/小知识/计算机软件配置.md"
+    },
+    {
+      "basename": "7.2023-09-04",
+      "path": "日志/7.2023-09-04.md"
+    },
+    {
+      "basename": "6.2023-08-28",
+      "path": "日志/6.2023-08-28.md"
+    },
+    {
+      "basename": "cmd常用命令",
+      "path": "编程相关/编辑器/cmd常用命令.md"
+    },
+    {
+      "basename": "Python格式化字符串f-string",
+      "path": "编程相关/python/python基础/Python格式化字符串f-string.md"
+    },
+    {
+      "basename": "python基础知识",
+      "path": "编程相关/python/python基础/python基础知识.md"
+    },
+    {
+      "basename": "3. Python 面向对象编程",
+      "path": "编程相关/python/python基础/3. Python 面向对象编程.md"
+    },
+    {
+      "basename": "2. Python 数据结构",
+      "path": "编程相关/python/python基础/2. Python 数据结构.md"
+    },
+    {
+      "basename": "1. Python 安装及基本语法",
+      "path": "编程相关/python/python基础/1. Python 安装及基本语法.md"
+    },
+    {
+      "basename": "4. Python 文件与模块",
+      "path": "编程相关/python/python基础/4. Python 文件与模块.md"
+    },
+    {
+      "basename": "pycharm相关",
+      "path": "编程相关/编辑器/pycharm相关.md"
+    },
+    {
+      "basename": "屏幕截图 2023-09-01 224349",
+      "path": "实用工具/桌面截图保存位置/屏幕截图 2023-09-01 224349.png"
+    },
+    {
+      "basename": "开源相关知识",
+      "path": "实用工具/小知识/开源相关知识.md"
+    },
+    {
+      "basename": "cat-dog-train",
+      "path": "人工智能/深度学习基础/笔记/imgs/23-环境和分布偏移/cat-dog-train.svg"
+    },
+    {
+      "basename": "cat-dog-test",
+      "path": "人工智能/深度学习基础/笔记/imgs/23-环境和分布偏移/cat-dog-test.svg"
+    },
+    {
+      "basename": "正则表达式",
+      "path": "编程相关/编辑器/正则表达式.md"
+    },
+    {
+      "basename": "23-环境和分布偏移",
+      "path": "人工智能/深度学习基础/笔记/名词概念解释/23-环境和分布偏移.md"
+    },
+    {
+      "basename": "popvssoda",
+      "path": "人工智能/深度学习基础/笔记/imgs/23-环境和分布偏移/popvssoda.png"
+    },
+    {
+      "basename": "23-LeNet",
+      "path": "人工智能/深度学习基础/笔记/经典卷积神经网络/23-LeNet.md"
+    },
+    {
+      "basename": "开源3",
+      "path": "实用工具/小知识/图片/开源3.jpg"
+    },
+    {
+      "basename": "文件的状态变化周期",
+      "path": "实用工具/小知识/图片/文件的状态变化周期.png"
+    },
+    {
+      "basename": "3.7 训练与评估",
+      "path": "编程相关/python/pytorch/章节/第三章/3.7 训练与评估.md"
+    },
+    {
+      "basename": "3.8 可视化",
+      "path": "编程相关/python/pytorch/章节/第三章/3.8 可视化.md"
+    },
+    {
+      "basename": "3.9 优化器",
+      "path": "编程相关/python/pytorch/章节/第三章/3.9 优化器.md"
+    },
+    {
+      "basename": "2.1 张量",
+      "path": "编程相关/python/pytorch/章节/第二章/2.1 张量.md"
+    },
+    {
+      "basename": "57-3",
+      "path": "人工智能/深度学习基础/笔记/imgs/57/57-3.png"
+    },
+    {
+      "basename": "57-2",
+      "path": "人工智能/深度学习基础/笔记/imgs/57/57-2.png"
+    },
+    {
+      "basename": "57-1",
+      "path": "人工智能/深度学习基础/笔记/imgs/57/57-1.png"
+    },
+    {
+      "basename": "parameters",
+      "path": "人工智能/深度学习基础/笔记/深度学习计算/parameters.md"
+    },
+    {
+      "basename": "model-construction",
+      "path": "人工智能/深度学习基础/笔记/深度学习计算/model-construction.md"
+    },
+    {
+      "basename": "deferred-init",
+      "path": "人工智能/深度学习基础/笔记/深度学习计算/deferred-init.md"
+    },
+    {
+      "basename": "custom-layer",
+      "path": "人工智能/深度学习基础/笔记/深度学习计算/custom-layer.md"
+    },
+    {
+      "basename": "bahdanau-attention",
+      "path": "人工智能/深度学习基础/代码/attention-mechanisms/bahdanau-attention.md"
+    },
+    {
+      "basename": "attention-scoring-functions",
+      "path": "人工智能/深度学习基础/代码/attention-mechanisms/attention-scoring-functions.md"
+    },
+    {
+      "basename": "attention-cues",
+      "path": "人工智能/深度学习基础/代码/attention-mechanisms/attention-cues.md"
+    },
+    {
+      "basename": "异步计算",
+      "path": "人工智能/深度学习基础/笔记/计算性能与分布式训练/异步计算.md"
+    },
+    {
+      "basename": "34-多GPU训练实现(only QA)",
+      "path": "人工智能/深度学习基础/笔记/计算性能与分布式训练/34-多GPU训练实现(only QA).md"
+    },
+    {
+      "basename": "33-单机多卡并行",
+      "path": "人工智能/深度学习基础/笔记/计算性能与分布式训练/33-单机多卡并行.md"
+    },
+    {
+      "basename": "35-分布式训练",
+      "path": "人工智能/深度学习基础/笔记/计算性能与分布式训练/35-分布式训练.md"
+    },
+    {
+      "basename": "auto-parallelism",
+      "path": "人工智能/深度学习基础/笔记/计算性能与分布式训练/auto-parallelism.md"
+    },
+    {
+      "basename": "参数服务器",
+      "path": "人工智能/深度学习基础/笔记/计算性能与分布式训练/参数服务器.md"
+    },
+    {
+      "basename": "alexnet-original",
+      "path": "人工智能/深度学习基础/笔记/imgs/34-多gpu训练/alexnet-original.svg"
+    },
+    {
+      "basename": "multiple-gpus",
+      "path": "人工智能/深度学习基础/代码/computational-performance/multiple-gpus.md"
+    },
+    {
+      "basename": "multiple-gpus-concise",
+      "path": "人工智能/深度学习基础/代码/computational-performance/multiple-gpus-concise.md"
+    },
+    {
+      "basename": "DataParallel",
+      "path": "人工智能/深度学习基础/笔记/imgs/33-单机多卡并行/DataParallel.png"
+    },
+    {
+      "basename": "35-02",
+      "path": "人工智能/深度学习基础/笔记/imgs/35/35-02.png"
+    },
+    {
+      "basename": "35-01",
+      "path": "人工智能/深度学习基础/笔记/imgs/35/35-01.png"
+    },
+    {
+      "basename": "硬件基础知识",
+      "path": "人工智能/深度学习基础/笔记/计算性能与分布式训练/硬件基础知识.md"
+    },
+    {
+      "basename": "transformer",
+      "path": "人工智能/深度学习基础/代码/attention-mechanisms/transformer.md"
+    }
+  ],
+  "omittedPaths": [
+    ""
+  ],
+  "maxLength": null,
+  "openType": "tab"
+}

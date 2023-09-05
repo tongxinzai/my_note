@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "29e8ba11a3f2c2ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "92a5d35469cc007f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c21b87909ecd002",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "实用工具/小知识/git相关问题.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69c4aa581db3da04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日志/7.2023-09-04.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f14091cef4b9df14",
+    "type": "split",
+    "children": [
+      {
+        "id": "70a78a8e1ca4324f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64756994d440b978",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2754a38c61d5224e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "jup",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dd41357fe35d6f1d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "3f1a1a2f086552c8",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 260.00390625
+  },
+  "right": {
+    "id": "d89965f6c83e0ed7",
+    "type": "split",
+    "children": [
+      {
+        "id": "535fffaeedfb31d8",
+        "type": "tabs",
+        "dimension": 41.24087591240877,
+        "children": [
+          {
+            "id": "3886f85cd6cfa771",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "实用工具/小知识/git相关问题.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f30f80279a80f6ad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "实用工具/小知识/git相关问题.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "753eba9e2e97ac58",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "7db2086f7f547a61",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequencyReverse",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3e86a612e8207830",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "c822ecd96305b6fb",
+        "type": "tabs",
+        "dimension": 58.75912408759123,
+        "children": [
+          {
+            "id": "3fa38a620d0e5508",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "实用工具/小知识/git相关问题.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 205
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "remotely-save:Remotely Save": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "templates:插入模板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "3c21b87909ecd002",
+  "lastOpenFiles": [
+    "实用工具/小知识/计算机软件配置.md",
+    "编程相关/未命名",
+    "日志/7.2023-09-04.md",
+    "日志/6.2023-08-28.md",
+    "编程相关/编辑器/cmd常用命令.md",
+    "编程相关/python/python基础/Python格式化字符串f-string.md",
+    "编程相关/python/python基础/python基础知识.md",
+    "编程相关/python/python基础/3. Python 面向对象编程.md",
+    "编程相关/python/python基础/2. Python 数据结构.md",
+    "编程相关/python/python基础/1. Python 安装及基本语法.md",
+    "编程相关/python/python基础/4. Python 文件与模块.md",
+    "编程相关/编辑器/pycharm相关.md",
+    "实用工具/桌面截图保存位置/屏幕截图 2023-09-01 224349.png",
+    "实用工具/小知识/开源相关知识.md",
+    "人工智能/深度学习基础/笔记/imgs/23-环境和分布偏移/cat-dog-train.svg",
+    "人工智能/深度学习基础/笔记/imgs/23-环境和分布偏移/cat-dog-test.svg",
+    "编程相关/编辑器/正则表达式.md",
+    "人工智能/深度学习基础/笔记/名词概念解释/23-环境和分布偏移.md",
+    "人工智能/深度学习基础/笔记/imgs/23-环境和分布偏移/popvssoda.png",
+    "人工智能/深度学习基础/笔记/经典卷积神经网络/23-LeNet.md",
+    "人工智能/深度学习基础/note/23-环境和分布偏移.md",
+    "人工智能/深度学习基础/note",
+    "实用工具/小知识/图片/开源3.jpg",
+    "实用工具/小知识/图片/文件的状态变化周期.png",
+    "实用工具/小知识/git相关问题.md",
+    "编程相关/python/pytorch/章节/第三章/3.7 训练与评估.md",
+    "编程相关/python/pytorch/章节/第三章/3.8 可视化.md",
+    "编程相关/python/pytorch/章节/第三章/3.9 优化器.md",
+    "编程相关/python/pytorch/章节/第二章/2.1 张量.md",
+    "人工智能/深度学习基础/笔记/imgs/57/57-3.png",
+    "人工智能/深度学习基础/笔记/imgs/57/57-2.png",
+    "人工智能/深度学习基础/笔记/imgs/57/57-1.png",
+    "人工智能/深度学习基础/笔记/深度学习计算/parameters.md",
+    "人工智能/深度学习基础/笔记/深度学习计算/model-construction.md",
+    "人工智能/深度学习基础/笔记/深度学习计算/deferred-init.md",
+    "人工智能/深度学习基础/笔记/深度学习计算/custom-layer.md",
+    "人工智能/深度学习基础/笔记/img/frontends.png",
+    "人工智能/深度学习基础/笔记/imgs/异步计算",
+    "人工智能/深度学习基础/笔记/imgs/参数服务器",
+    "人工智能/深度学习基础/代码/computational-performance/multiple-gpus-concise_files",
+    "人工智能/深度学习基础/代码/computational-performance/multiple-gpus_files",
+    "人工智能/深度学习基础/笔记/imgs/34-多gpu训练",
+    "人工智能/深度学习基础/笔记/imgs/hardware",
+    "figures",
+    "人工智能/深度学习基础/code/linear-networks/image-classification-dataset_files",
+    "Untitled.canvas"
+  ]
+}

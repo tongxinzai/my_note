@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "实用工具/小知识/git相关问题.md",
+                "file": "编程相关/编辑器/pycharm相关.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jup",
+                "query": "ssh连接",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "实用工具/小知识/git相关问题.md",
+                "file": "编程相关/编辑器/pycharm相关.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "实用工具/小知识/git相关问题.md",
+                "file": "编程相关/编辑器/pycharm相关.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "实用工具/小知识/git相关问题.md"
+                "file": "编程相关/编辑器/pycharm相关.md"
               }
             }
           }
@@ -194,9 +194,13 @@
   },
   "active": "3c21b87909ecd002",
   "lastOpenFiles": [
+    "日志/7.2023-09-04.md",
+    "编程相关/编辑器/pycharm相关.md",
+    "编程相关/python/pytorch/章节/第七章/7.3 使用TensorBoard可视化训练过程.md",
+    "编程相关/系统/ubuntu基础知识.md",
+    "实用工具/小知识/git相关问题.md",
     "实用工具/小知识/计算机软件配置.md",
     "编程相关/未命名",
-    "日志/7.2023-09-04.md",
     "日志/6.2023-08-28.md",
     "编程相关/编辑器/cmd常用命令.md",
     "编程相关/python/python基础/Python格式化字符串f-string.md",
@@ -205,7 +209,6 @@
     "编程相关/python/python基础/2. Python 数据结构.md",
     "编程相关/python/python基础/1. Python 安装及基本语法.md",
     "编程相关/python/python基础/4. Python 文件与模块.md",
-    "编程相关/编辑器/pycharm相关.md",
     "实用工具/桌面截图保存位置/屏幕截图 2023-09-01 224349.png",
     "实用工具/小知识/开源相关知识.md",
     "人工智能/深度学习基础/笔记/imgs/23-环境和分布偏移/cat-dog-train.svg",
@@ -218,7 +221,6 @@
     "人工智能/深度学习基础/note",
     "实用工具/小知识/图片/开源3.jpg",
     "实用工具/小知识/图片/文件的状态变化周期.png",
-    "实用工具/小知识/git相关问题.md",
     "编程相关/python/pytorch/章节/第三章/3.7 训练与评估.md",
     "编程相关/python/pytorch/章节/第三章/3.8 可视化.md",
     "编程相关/python/pytorch/章节/第三章/3.9 优化器.md",
@@ -229,7 +231,6 @@
     "人工智能/深度学习基础/笔记/深度学习计算/parameters.md",
     "人工智能/深度学习基础/笔记/深度学习计算/model-construction.md",
     "人工智能/深度学习基础/笔记/深度学习计算/deferred-init.md",
-    "人工智能/深度学习基础/笔记/深度学习计算/custom-layer.md",
     "人工智能/深度学习基础/笔记/img/frontends.png",
     "人工智能/深度学习基础/笔记/imgs/异步计算",
     "人工智能/深度学习基础/笔记/imgs/参数服务器",

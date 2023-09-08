@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "pycharm相关",
+      "path": "编程相关/编辑器/pycharm相关.md"
+    },
+    {
+      "basename": "7.2023-09-04",
+      "path": "日志/7.2023-09-04.md"
+    },
+    {
+      "basename": "7.3 使用TensorBoard可视化训练过程",
+      "path": "编程相关/python/pytorch/章节/第七章/7.3 使用TensorBoard可视化训练过程.md"
+    },
+    {
+      "basename": "ubuntu基础知识",
+      "path": "编程相关/系统/ubuntu基础知识.md"
+    },
+    {
       "basename": "git相关问题",
       "path": "实用工具/小知识/git相关问题.md"
     },
     {
       "basename": "计算机软件配置",
       "path": "实用工具/小知识/计算机软件配置.md"
-    },
-    {
-      "basename": "7.2023-09-04",
-      "path": "日志/7.2023-09-04.md"
     },
     {
       "basename": "6.2023-08-28",
@@ -43,10 +55,6 @@
     {
       "basename": "4. Python 文件与模块",
       "path": "编程相关/python/python基础/4. Python 文件与模块.md"
-    },
-    {
-      "basename": "pycharm相关",
-      "path": "编程相关/编辑器/pycharm相关.md"
     },
     {
       "basename": "屏幕截图 2023-09-01 224349",
@@ -191,14 +199,6 @@
     {
       "basename": "35-01",
       "path": "人工智能/深度学习基础/笔记/imgs/35/35-01.png"
-    },
-    {
-      "basename": "硬件基础知识",
-      "path": "人工智能/深度学习基础/笔记/计算性能与分布式训练/硬件基础知识.md"
-    },
-    {
-      "basename": "transformer",
-      "path": "人工智能/深度学习基础/代码/attention-mechanisms/transformer.md"
     }
   ],
   "omittedPaths": [

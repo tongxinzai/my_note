@@ -190,3 +190,323 @@ sudo dmidecode
 ```powershell
 pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
 ```
+#### 挂载u盘
+在Ubuntu上，可以通过以下步骤来挂载U盘：
+1. 插入U盘：将U盘插入计算机的USB接口。
+2. 打开终端：按下Ctrl + Alt + T键打开终端。
+3. 查看设备列表：在终端中运行以下命令，查看系统中的设备列表和它们的挂载点：
+4. 
+   ```
+   sudo fdisk -l
+   或
+   lsblk
+   ```
+   这将列出计算机上的所有设备，包括硬盘、分区和可移动设备（如U盘）。
+5. 确定U盘设备：根据U盘的大小和设备名称，确定U盘所对应的设备。通常，U盘的设备名称为`/dev/sdX`（X为字母，表示不同的设备）。
+6. 创建挂载点：在终端中运行以下命令，创建一个用于挂载U盘的目录：
+   ```
+   sudo mkdir /mnt/usb
+   ```
+   这将在`/mnt`目录下创建一个名为`usb`的目录作为挂载点。
+7. 挂载U盘：在终端中运行以下命令，将U盘挂载到刚刚创建的挂载点上：
+   ```
+   sudo mount /dev/sdX /mnt/usb
+   ```
+   请将`/dev/sdX`替换为您U盘的设备名称。
+8. 访问U盘：现在，您可以通过文件管理器或终端访问挂载的U盘。在文件管理器中，导航到`/mnt/usb`目录即可查看U盘的内容。
+9. 卸载U盘：在您完成使用U盘后，可以通过以下命令卸载U盘：
+   ```
+   sudo umount /mnt/usb
+   ```
+   这将卸载U盘并使其从系统中断开连接。
+#### 查看硬盘大小
+在Ubuntu上，可以使用以下方法来查看当前磁盘的大小：
+1. 打开终端：按下`Ctrl + Alt + T`键打开终端。
+2. 运行df命令：在终端中运行`df -h`命令，如下所示：
+   ```
+   df -h
+   ```
+   这将显示所有已挂载的磁盘分区的详细信息，包括文件系统、挂载点、总大小、已用空间和可用空间等。
+   如果您只想查看特定的磁盘分区，可以指定该分区的挂载点。例如，要查看`/dev/sda1`分区的大小，可以运行以下命令：
+   ```
+   df -h /dev/sda1
+   ```
+   `-h`选项用于以人类可读的格式显示磁盘大小，以便更容易理解。
+3. 查看磁盘使用情况：在df命令的输出中，可以查看每个磁盘分区的总大小、已用空间、可用空间和使用百分比等信息。
+请注意，在运行df命令时，可能需要一些时间来收集和计算磁盘使用情况。如果您的系统中有大量的磁盘分区或文件，可能需要更长的时间来完成操作。
+另外，如果您想以图形化的方式查看磁盘使用情况，可以使用系统监视器（System Monitor）或其他磁盘使用情况监控工具，如 Disks等。这些工具通常提供更直观和可视化的界面来显示磁盘大小和使用情况。
+#### 查看文件大小
+在Ubuntu上，可以使用以下方法来查看文件的大小：
+1. 打开终端：按下`Ctrl + Alt + T`键打开终端。
+2. 使用`ls`命令查看文件大小：在终端中运行以下命令，可以查看当前目录下的文件及其大小：
+   ```
+   ls -lh
+   ```
+   `-l`选项用于以长格式显示文件信息，包括文件大小和权限等。`-h`选项用于以人类可读的方式显示文件大小。
+   如果要查看特定文件的大小，可以在命令后面加上文件名。例如，要查看`file.txt`文件的大小，可以运行以下命令：
+   ```
+   ls -lh file.txt
+   ```
+3. 使用`du`命令查看文件/文件夹大小：`du`命令用于估算文件或文件夹的磁盘使用量。在终端中运行以下命令，可以查看指定文件或文件夹的大小：
+   ```
+   du -sh /path/to/file_or_folder
+   ```
+   `-s`选项用于仅显示总大小，`-h`选项用于以人类可读的方式显示文件/文件夹大小。请将`/path/to/file_or_folder`替换为您要查看的文件或文件夹的路径。
+请注意，使用`du`命令查看文件夹大小时，它会递归地计算文件夹及其所有子文件夹和文件的总大小。
+#### 复制文件夹
+在Ubuntu上，要复制整个文件夹及其内容，可以使用`cp`命令的`-r`选项（递归复制）。以下是复制文件夹的步骤：
+1. 打开终端：按下Ctrl + Alt + T键打开终端。
+2. 使用cp命令进行复制：在终端中运行以下命令，将整个文件夹及其内容复制到目标位置。例如，要将`/path/to/source_directory`文件夹复制到`/path/to/destination_directory`目录下，可以运行以下命令：
+   ```
+   cp -r /path/to/source_directory /path/to/destination_directory
+   ```
+   `-r`选项用于递归复制，确保复制整个文件夹及其所有子文件夹和文件。
+3. 确认复制结果：在执行复制命令后，可以通过进入目标位置并检查复制的文件夹及其内容是否存在来确认复制结果。
+请注意，如果目标位置已经存在同名的文件夹，`cp`命令将会覆盖目标位置上的同名文件夹及其内容。如果您希望在发生冲突时进行确认，可以使用`-i`选项来进行交互式复制。例如：
+```
+cp -ri /path/to/source_directory /path/to/destination_directory
+```
+这将在复制文件夹时提示是否覆盖目标位置上的同名文件夹及其内容。
+如果您希望在复制过程中显示详细输出，可以使用`-v`选项。例如：
+```
+cp -rv /path/to/source_directory /path/to/destination_directory
+```
+这将显示每个复制的文件和文件夹的详细信息。
+请注意，对于某些系统文件夹和文件，可能需要管理员权限来进行复制操作。在这种情况下，您可以在`cp`命令前加上`sudo`来以管理员身份运行命令。例如：
+```
+sudo cp -r /path/to/source_directory /path/to/destination_directory
+```
+这将要求您输入管理员密码来执行复制操作。
+#### 常用命令
+**一般操作**
+- **pwd（present working directory）**
+显示当前的工作目录/路径。
+  
+- **cd (change directory)**
+改变目录，用于输入需要前往的路径/目录。
+有一些特殊命令也很常用 :
+```text
+前往同一级的另一个目录
+cd ../directory name
+cd .. 表示进入上层目录
+cd ../.. 进入上上层目录，后面还可以加更多。
+前往同一级的另一个目录
+cd ../directory name
+cd -  //表示返回上一次的目录
+cd ~  //进入home主目录，即/home/用户名的简写
+```
+- **ls (list)**
+ls 显示当前目录下的文件（不包括隐藏文件和缓存文件等）；
+列出目录下所有文件
+```text
+ls -a 
+```
+ll , 以列表形式显示当前路径下的所有文件的详细信息（包括隐藏文件和缓存文件等）。
+  
+- **mkdir (make directory)**
+创建目录，后面接上directory的名字。
+```text
+mkdir I_dont_care //创建一个“我不在乎”目录
+```
+- **rm (remove)**
+删除文件，后面接上要删除的文件名。如果要删除目录，需要这样写：
+```text
+rm -I <目录名>  //这样做会删除指定目录中的所有子目录和包含的文件
+```
+- **touch**
+创建任意格式的文件，包括源代码、文本等等，通过后缀来决定。例如，.cpp/.cc是c++源代码，而.py是python源代码。
+```text
+touch hello_world.cpp  //创建hello_world源代码
+```
+  
+- **cp (copy)**
+复制命令。通用格式为
+```text
+cp -? <源文件/源目录> <目的目录>  //第一个"-?"表示参数，出发地在左，目的地在右
+```
+特别的，如果想把某目录下所有文件都复制，可以使用参数-r
+```text
+cp -r cangjingkong/ xuexi    //将canjingkong目录下的所有资源都复制到xuexi目录中
+```
+- **mv (move)**
+移动+重命名命令。格式类似于cp命令
+```text
+mv -? <源文件/源目录> <目的目录> //第一个"-?"表示参数，出发地在左，目的地在右
+```
+以移动txt文件为例 可以分为以下三种情况：
+```text
+mv a.txt b.txt                 //出发地和目的地是同一路径，名称从a.txt变为b.txt，那仅仅是重命名
+mv ~/目录1/a.txt ~/目录2       //出发地和目的地是不同路径，没有指定新的名称，那仅仅是移动
+mv ~/目录1/a.txt ~/目录2/b.txt //出发地和目的地是不同路径，指定了新的名称，那就是移动+重命名
+```
+常用的例子有，
+移动目录到另一目录中
+```text
+mv 目录1/ 目录2
+```
+将某目录下所有的文件和目录都移动到当前目录下
+```text
+mv ~/videos/p_hub .
+```
+  
+- **gedit**
+在桌面临时新建一个text editor（文本编辑器）显示文件内的文本，并且支持修改。按ctrl+c退出文件显示。
+```text
+gedit <文件名>
+```
+例如，
+```abap
+gedit single_ladies_contacts.csv
+```
+- **cat**
+在终端打印出文本内容。
+```text
+cat <文件名>  //在terminal内部打印，和gedit相区分
+```
+  
+- **code/nano/vi/vim**
+使用Visual Studio Code/Nano/vi/vim这四种编辑器，打开或者新建一个源代码文件。
+- **apt/apt-get**
+更推荐使用apt命令而不是apt-get命令，它的命令更精简而且易用。
+```text
+sudo apt install <软件名>  //安装软件最简单的方式
+sudo apt list               //查看所有已安装的软件列表
+sudo apt search <软件名>       //搜索某个软件
+sudo apt remove <软件名>       //删除某个软件包
+sudo apt purge <软件名>        //删除某个软件包以及配置文件，更彻底
+```
+还有我们最最常用的更新相关命令
+```text
+sudo apt update
+sudo apt upgrade
+```
+- **dpkg (Debian package)**
+包管理工具。
+首先是下载功能。先在官网下载软件的deb格式安装包，然后cd到下载文件夹，打开terminal（终端）输入：
+```text
+dpkg -i <.deb后缀的软件名>  //i 表示 install
+```
+其次是卸载功能。和apt系列命令类似，也可以查看安装列表，搜索指定安装包和卸载。
+```text
+dpkg -r <包的名字>  //r 表示 remove, 此种方法会保留配置文件
+dpkg -P <包的名字>  //直接全删了，配置也不会保留
+dpkg -l            //查看安装列表
+dpkg -S <包的名字>   //搜索某个包
+```
+- **kill**
+结束指定进程时使用，就比如某个软件不响应了，这时候kill就相当于windows系统中的任务管理器中的“结束进程”按钮。我们只要指定进程的编号（ID#)
+```text
+kill <ID#>  //结束编号为<ID#>的进程
+```
+进程编号如何获得？引出下一个函数。
+  
+- **ps (process status)**
+查看所有进程；
+```text
+ps -A     
+```
+查看所有包含其他使用者的进程；
+```text
+ps -aux
+```
+关键字查找某个进程，这个办法用于结束指定进程很方便。
+```text
+ps -ef | grep <关键字>
+```
+  
+- **grep**
+Linux grep 命令用于查找文件里符合条件的字符串。
+  
+- **find**
+用于查找目录中的文件。
+  
+- **ln (link files)**
+插入链接。
+```
+ln -sft
+ln -hard
+```
+- **chmod (change mode)**
+改变权限。
+```
+chmod +x dir/file or. chmod 777 dir/file
+```
+改为可执行
+  
+- **du(disk usage)**
+```
+du -h -l -d 1
+\-h: --human readable 会显示Mb, Kb, G之类的单位，方便阅读
+\-d 1: 表示深度为1，只会查看下一级目录的空间占用大小
+```
+  
+- df(disk space filesystem)
+```
+df -h
+```
+  
+---
+**基础但实用的操作**
+如果碰到不会的命令，或者忘记了具体的options（操作选项），可以使用帮助命令：
+```text
+命令名 -h or --help
+```
+如果嫌每次都要sudo太麻烦，可以先登录，获取root权限。
+```text
+sudo su //输入并回车
+//就会让你输入root密码
+```
+学会以下代码就可以在技能中写上“熟悉linux系统的开关机”
+```text
+reboot  //重启
+poweroff //关机
+```
+
+#### bashrc 文件
+ bashrc 文件是 Bash shell 的配置文件,用于设置shell的环境和默认参数。
+当用户登录时,系统会读取该文件来配置 shell 环境,以便为用户提供一个自定义的工作环境。
+bashrc 文件通常包含以下内容:
+• 定义aliases,为命令设置别名,方便使用。例如 alias ll='ls -al' 为ls命令设置别名ll。
+• 设置环境变量,如 PATH 变量添加需要运行的命令路径。
+• 定义函数,可以自己定义一些命令函数。
+• 设置命令提示符(PS1)的显示样式。
+• 加载其他配置文件以扩展shell的功能。
+• 其他个性化的shell配置。
+bashrc 文件优点:
+• 可以自定义shell环境,提高使用效率。
+• 对所有shell实例(包括新打开的shell)都生效,提供一致的工作环境。
+• 可以加载其他配置文件,扩展shell的功能。
+• 可以设置别名以简化复杂的命令。
+• 可以添加自己定义的函数实现简单的功能。
+总之,bashrc 文件是 shell 用户自定义和优化环境的重要手段,可以最大限度地发挥 shell 的功能。
+对于 Ubuntu 系统,bashrc 文件位于用户主目录下,即 /home/用户名/.bashrc。
+
+#### profile文件
+ .profile 文件是 Linux/Unix 系统中用户登录 shell 启动时读取的第一个配置文件。
+它主要包含:
+• 设置环境变量,如 PATH, LANG 等。这些环境变量对用户登录的所有 shell 实例都生效。
+• 加载其他配置文件,如 .bashrc 等,以扩展 shell 的功能。
+• 其他登录时需要设置的内容。
+与 .bashrc 文件比较:.profile 文件有以下特点:
+• 仅在用户登录时读取一次,对登录 shell 生效。而 .bashrc 每打开一个新 shell 都会读取。
+• 通常用于设置环境变量等对整个登录会话都需要的内容。而 .bashrc 更注重对 shell 实例的配置。
+• .profile 仅对 bash shell 生效,其他 shell 不读取该文件。而 .bashrc 只用于 bash shell,其他 shell 有对应的配置文件。
+• .profile 可以加载 .bashrc 文件,但不 vice versa。.bashrc 不会读取 .profile。
+对于 Ubuntu 系统, .profile 文件位于用户主目录下,即 /home/用户名/.profile。
+一个典型的 .profile 文件内容如下:
+```
+# .profile
+# Set environment variables
+export PATH=$HOME/bin:$PATH
+export LANG=en_US.UTF-8
+# Source global definitions
+if [ -f /etc/bashrc ]; then
+        . /etc/bashrc
+fi 
+# User specific aliases and functions
+if [ -f ~/.bashrc ]; then 
+        . ~/.bashrc 
+fi
+```
+从上面可以看出,该文件设置了 PATH 环境变量和 LANG 环境变量,并加载了 /etc/bashrc 和 ~/.bashrc 文件以扩展 shell 的功能。
+总结:.profile 和 .bashrc 文件都非常重要,用于配置 shell 环境。理解了这两个文件作用及其区别,可以更好的定制自己的 shell 工作环境。

@@ -1,36 +1,84 @@
 {
   "recentFiles": [
     {
-      "basename": "pycharm相关",
-      "path": "编程相关/编辑器/pycharm相关.md"
-    },
-    {
       "basename": "7.2023-09-04",
       "path": "日志/7.2023-09-04.md"
     },
     {
-      "basename": "7.3 使用TensorBoard可视化训练过程",
-      "path": "编程相关/python/pytorch/章节/第七章/7.3 使用TensorBoard可视化训练过程.md"
+      "basename": "名词积累",
+      "path": "论文写作/英文积累/名词积累.md"
     },
     {
-      "basename": "ubuntu基础知识",
-      "path": "编程相关/系统/ubuntu基础知识.md"
+      "basename": "日常",
+      "path": "论文写作/英文积累/日常.md"
+    },
+    {
+      "basename": "专有名词",
+      "path": "论文写作/英文积累/专有名词.md"
+    },
+    {
+      "basename": "glossary",
+      "path": "论文写作/英文积累/glossary.md"
+    },
+    {
+      "basename": "常用英文表达",
+      "path": "论文写作/英文积累/常用英文表达.md"
+    },
+    {
+      "basename": "近意词汇分辨",
+      "path": "论文写作/英文积累/近意词汇分辨.md"
+    },
+    {
+      "basename": "名人名言",
+      "path": "实用工具/小知识/名人名言.md"
     },
     {
       "basename": "git相关问题",
       "path": "实用工具/小知识/git相关问题.md"
     },
     {
+      "basename": "AnuPpuccinMD元素设置对照",
+      "path": "实用工具/小知识/AnuPpuccinMD元素设置对照.md"
+    },
+    {
+      "basename": "开源相关知识",
+      "path": "实用工具/小知识/开源相关知识.md"
+    },
+    {
       "basename": "计算机软件配置",
       "path": "实用工具/小知识/计算机软件配置.md"
     },
     {
-      "basename": "6.2023-08-28",
-      "path": "日志/6.2023-08-28.md"
+      "basename": "各种报错解决方案",
+      "path": "实用工具/小知识/各种报错解决方案.md"
+    },
+    {
+      "basename": "ubuntu基础知识",
+      "path": "编程相关/系统/ubuntu基础知识.md"
+    },
+    {
+      "basename": "vim基础语法",
+      "path": "编程相关/编辑器/vim基础语法.md"
+    },
+    {
+      "basename": "conda相关",
+      "path": "编程相关/编辑器/conda相关.md"
     },
     {
       "basename": "cmd常用命令",
-      "path": "编程相关/编辑器/cmd常用命令.md"
+      "path": "编程相关/系统/cmd常用命令.md"
+    },
+    {
+      "basename": "pycharm相关",
+      "path": "编程相关/编辑器/pycharm相关.md"
+    },
+    {
+      "basename": "7.3 使用TensorBoard可视化训练过程",
+      "path": "编程相关/python/pytorch/章节/第七章/7.3 使用TensorBoard可视化训练过程.md"
+    },
+    {
+      "basename": "6.2023-08-28",
+      "path": "日志/6.2023-08-28.md"
     },
     {
       "basename": "Python格式化字符串f-string",
@@ -59,10 +107,6 @@
     {
       "basename": "屏幕截图 2023-09-01 224349",
       "path": "实用工具/桌面截图保存位置/屏幕截图 2023-09-01 224349.png"
-    },
-    {
-      "basename": "开源相关知识",
-      "path": "实用工具/小知识/开源相关知识.md"
     },
     {
       "basename": "cat-dog-train",
@@ -151,54 +195,6 @@
     {
       "basename": "attention-cues",
       "path": "人工智能/深度学习基础/代码/attention-mechanisms/attention-cues.md"
-    },
-    {
-      "basename": "异步计算",
-      "path": "人工智能/深度学习基础/笔记/计算性能与分布式训练/异步计算.md"
-    },
-    {
-      "basename": "34-多GPU训练实现(only QA)",
-      "path": "人工智能/深度学习基础/笔记/计算性能与分布式训练/34-多GPU训练实现(only QA).md"
-    },
-    {
-      "basename": "33-单机多卡并行",
-      "path": "人工智能/深度学习基础/笔记/计算性能与分布式训练/33-单机多卡并行.md"
-    },
-    {
-      "basename": "35-分布式训练",
-      "path": "人工智能/深度学习基础/笔记/计算性能与分布式训练/35-分布式训练.md"
-    },
-    {
-      "basename": "auto-parallelism",
-      "path": "人工智能/深度学习基础/笔记/计算性能与分布式训练/auto-parallelism.md"
-    },
-    {
-      "basename": "参数服务器",
-      "path": "人工智能/深度学习基础/笔记/计算性能与分布式训练/参数服务器.md"
-    },
-    {
-      "basename": "alexnet-original",
-      "path": "人工智能/深度学习基础/笔记/imgs/34-多gpu训练/alexnet-original.svg"
-    },
-    {
-      "basename": "multiple-gpus",
-      "path": "人工智能/深度学习基础/代码/computational-performance/multiple-gpus.md"
-    },
-    {
-      "basename": "multiple-gpus-concise",
-      "path": "人工智能/深度学习基础/代码/computational-performance/multiple-gpus-concise.md"
-    },
-    {
-      "basename": "DataParallel",
-      "path": "人工智能/深度学习基础/笔记/imgs/33-单机多卡并行/DataParallel.png"
-    },
-    {
-      "basename": "35-02",
-      "path": "人工智能/深度学习基础/笔记/imgs/35/35-02.png"
-    },
-    {
-      "basename": "35-01",
-      "path": "人工智能/深度学习基础/笔记/imgs/35/35-01.png"
     }
   ],
   "omittedPaths": [

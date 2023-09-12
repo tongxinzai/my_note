@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3c21b87909ecd002",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "编程相关/编辑器/pycharm相关.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "69c4aa581db3da04",
             "type": "leaf",
             "state": {
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ssh连接",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程相关/编辑器/pycharm相关.md",
+                "file": "日志/7.2023-09-04.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编程相关/编辑器/pycharm相关.md",
+                "file": "日志/7.2023-09-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -170,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程相关/编辑器/pycharm相关.md"
+                "file": "日志/7.2023-09-04.md"
               }
             }
           }
@@ -178,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205
+    "width": 205,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,45 +181,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3c21b87909ecd002",
+  "active": "69c4aa581db3da04",
   "lastOpenFiles": [
-    "日志/7.2023-09-04.md",
-    "编程相关/编辑器/pycharm相关.md",
-    "编程相关/python/pytorch/章节/第七章/7.3 使用TensorBoard可视化训练过程.md",
-    "编程相关/系统/ubuntu基础知识.md",
+    "论文写作/英文积累/小说句子.md",
+    "论文写作/英文积累/名词积累.md",
+    "论文写作/英文积累/日常.md",
+    "论文写作/英文积累/专有名词.md",
+    "论文写作/英文积累/glossary.md",
+    "论文写作/英文积累/常用英文表达.md",
+    "论文写作/英文积累/近意词汇分辨.md",
+    "实用工具/小知识/名人名言.md",
     "实用工具/小知识/git相关问题.md",
+    "实用工具/小知识/AnuPpuccinMD元素设置对照.md",
+    "实用工具/小知识/开源相关知识.md",
     "实用工具/小知识/计算机软件配置.md",
+    "实用工具/小知识/各种报错解决方案.md",
+    "编程相关/系统/ubuntu基础知识.md",
+    "编程相关/编辑器/vim基础语法.md",
+    "编程相关/编辑器/conda相关.md",
+    "编程相关/系统/cmd常用命令.md",
+    "编程相关/编辑器/pycharm相关.md",
+    "日志/7.2023-09-04.md",
+    "编程相关/python/pytorch/章节/第七章/7.3 使用TensorBoard可视化训练过程.md",
     "编程相关/未命名",
     "日志/6.2023-08-28.md",
-    "编程相关/编辑器/cmd常用命令.md",
     "编程相关/python/python基础/Python格式化字符串f-string.md",
     "编程相关/python/python基础/python基础知识.md",
     "编程相关/python/python基础/3. Python 面向对象编程.md",
     "编程相关/python/python基础/2. Python 数据结构.md",
     "编程相关/python/python基础/1. Python 安装及基本语法.md",
-    "编程相关/python/python基础/4. Python 文件与模块.md",
     "实用工具/桌面截图保存位置/屏幕截图 2023-09-01 224349.png",
-    "实用工具/小知识/开源相关知识.md",
     "人工智能/深度学习基础/笔记/imgs/23-环境和分布偏移/cat-dog-train.svg",
     "人工智能/深度学习基础/笔记/imgs/23-环境和分布偏移/cat-dog-test.svg",
-    "编程相关/编辑器/正则表达式.md",
-    "人工智能/深度学习基础/笔记/名词概念解释/23-环境和分布偏移.md",
     "人工智能/深度学习基础/笔记/imgs/23-环境和分布偏移/popvssoda.png",
-    "人工智能/深度学习基础/笔记/经典卷积神经网络/23-LeNet.md",
-    "人工智能/深度学习基础/note/23-环境和分布偏移.md",
     "人工智能/深度学习基础/note",
     "实用工具/小知识/图片/开源3.jpg",
     "实用工具/小知识/图片/文件的状态变化周期.png",
-    "编程相关/python/pytorch/章节/第三章/3.7 训练与评估.md",
-    "编程相关/python/pytorch/章节/第三章/3.8 可视化.md",
-    "编程相关/python/pytorch/章节/第三章/3.9 优化器.md",
-    "编程相关/python/pytorch/章节/第二章/2.1 张量.md",
     "人工智能/深度学习基础/笔记/imgs/57/57-3.png",
     "人工智能/深度学习基础/笔记/imgs/57/57-2.png",
     "人工智能/深度学习基础/笔记/imgs/57/57-1.png",
-    "人工智能/深度学习基础/笔记/深度学习计算/parameters.md",
-    "人工智能/深度学习基础/笔记/深度学习计算/model-construction.md",
-    "人工智能/深度学习基础/笔记/深度学习计算/deferred-init.md",
     "人工智能/深度学习基础/笔记/img/frontends.png",
     "人工智能/深度学习基础/笔记/imgs/异步计算",
     "人工智能/深度学习基础/笔记/imgs/参数服务器",

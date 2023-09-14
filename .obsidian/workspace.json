@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "92a5d35469cc007f",
+        "id": "0900de8864f25f24",
         "type": "tabs",
         "children": [
           {
-            "id": "69c4aa581db3da04",
+            "id": "7e252f42d4f4726c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "日志/7.2023-09-04.md",
-                "mode": "source",
-                "source": false
+                "file": "人工智能/AI框架/自动微分/images/tangent_adjoint.png"
+              }
+            }
+          },
+          {
+            "id": "4045e2f22dd8d49b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "conda",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -94,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日志/7.2023-09-04.md",
+                "file": "人工智能/AI框架/自动微分/images/tangent_adjoint.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日志/7.2023-09-04.md",
+                "file": "人工智能/AI框架/自动微分/images/tangent_adjoint.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,6 +152,16 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "12b10fa1bda1cc07",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 4
@@ -158,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日志/7.2023-09-04.md"
+                "file": "人工智能/AI框架/自动微分/images/tangent_adjoint.png"
               }
             }
           }
@@ -181,46 +200,46 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "69c4aa581db3da04",
+  "active": "4045e2f22dd8d49b",
   "lastOpenFiles": [
-    "论文写作/英文积累/小说句子.md",
-    "论文写作/英文积累/名词积累.md",
-    "论文写作/英文积累/日常.md",
-    "论文写作/英文积累/专有名词.md",
-    "论文写作/英文积累/glossary.md",
-    "论文写作/英文积累/常用英文表达.md",
-    "论文写作/英文积累/近意词汇分辨.md",
-    "实用工具/小知识/名人名言.md",
-    "实用工具/小知识/git相关问题.md",
-    "实用工具/小知识/AnuPpuccinMD元素设置对照.md",
-    "实用工具/小知识/开源相关知识.md",
-    "实用工具/小知识/计算机软件配置.md",
-    "实用工具/小知识/各种报错解决方案.md",
-    "编程相关/系统/ubuntu基础知识.md",
-    "编程相关/编辑器/vim基础语法.md",
+    "人工智能/AI框架/自动微分/images/reversed_mode.png",
+    "人工智能/AI框架/自动微分/images/jacobian.png",
+    "人工智能/AI框架/自动微分/images/forward_mode.png",
+    "人工智能/AI框架/自动微分/images/autodiff08.png",
+    "人工智能/AI框架/自动微分/images/autodiff07.png",
+    "人工智能/AI框架/自动微分/images/autodiff06.png",
+    "人工智能/AI框架/自动微分/images/autodiff05.png",
+    "人工智能/AI框架/自动微分/images/autodiff04.png",
+    "人工智能/AI框架/自动微分/images/autodiff03.png",
+    "人工智能/AI框架/自动微分/images/autodiff02.png",
+    "人工智能/AI框架/自动微分/images/autodiff01.png",
+    "人工智能/AI框架/计算图/01.introduction.md",
+    "人工智能/AI框架/自动微分/06.reversed_mode.md",
+    "人工智能/AI框架/自动微分/05.forward_mode.md",
+    "人工智能/AI框架/自动微分/04.implement.md",
+    "人工智能/AI框架/自动微分/03.grad_mode.md",
+    "人工智能/AI框架/自动微分/02.base_concept.md",
+    "人工智能/AI框架/自动微分/01.introduction.md",
+    "人工智能/AI框架/框架基础/04.programing.md",
+    "人工智能/AI框架/框架基础/03.history.md",
+    "人工智能/AI框架/框架基础/02.fundamentals.md",
+    "人工智能/AI框架/框架基础/01.introduction.md",
+    "人工智能/AI框架/计算图/07.future.md",
+    "人工智能/AI框架/计算图/06.static_graph.md",
+    "人工智能/AI框架/计算图/05.control_flow.md",
+    "人工智能/AI框架/计算图/04.dispatch.md",
+    "人工智能/AI框架/计算图/03.atuodiff.md",
+    "人工智能/AI框架/计算图/02.computegraph.md",
+    "人工智能/神经网络压缩加速/知识蒸馏（综述）.md",
+    "人工智能/神经网络压缩加速/深度神经网络结构搜索（综述）.md",
+    "人工智能/神经网络压缩加速/模型压缩与加速（综述）.md",
+    "人工智能/神经网络压缩加速/模型压缩方法原理概述.md",
+    "人工智能/模型推理相关/推理系统.md",
+    "人工智能/模型推理相关/模型转换与优化.md",
+    "编程相关/各种报错解决方案.md",
     "编程相关/编辑器/conda相关.md",
-    "编程相关/系统/cmd常用命令.md",
-    "编程相关/编辑器/pycharm相关.md",
-    "日志/7.2023-09-04.md",
-    "编程相关/python/pytorch/章节/第七章/7.3 使用TensorBoard可视化训练过程.md",
     "编程相关/未命名",
-    "日志/6.2023-08-28.md",
-    "编程相关/python/python基础/Python格式化字符串f-string.md",
-    "编程相关/python/python基础/python基础知识.md",
-    "编程相关/python/python基础/3. Python 面向对象编程.md",
-    "编程相关/python/python基础/2. Python 数据结构.md",
-    "编程相关/python/python基础/1. Python 安装及基本语法.md",
-    "实用工具/桌面截图保存位置/屏幕截图 2023-09-01 224349.png",
-    "人工智能/深度学习基础/笔记/imgs/23-环境和分布偏移/cat-dog-train.svg",
-    "人工智能/深度学习基础/笔记/imgs/23-环境和分布偏移/cat-dog-test.svg",
-    "人工智能/深度学习基础/笔记/imgs/23-环境和分布偏移/popvssoda.png",
     "人工智能/深度学习基础/note",
-    "实用工具/小知识/图片/开源3.jpg",
-    "实用工具/小知识/图片/文件的状态变化周期.png",
-    "人工智能/深度学习基础/笔记/imgs/57/57-3.png",
-    "人工智能/深度学习基础/笔记/imgs/57/57-2.png",
-    "人工智能/深度学习基础/笔记/imgs/57/57-1.png",
-    "人工智能/深度学习基础/笔记/img/frontends.png",
     "人工智能/深度学习基础/笔记/imgs/异步计算",
     "人工智能/深度学习基础/笔记/imgs/参数服务器",
     "人工智能/深度学习基础/代码/computational-performance/multiple-gpus-concise_files",

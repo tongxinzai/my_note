@@ -1,200 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "7.2023-09-04",
-      "path": "日志/7.2023-09-04.md"
+      "basename": "tangent_adjoint",
+      "path": "人工智能/AI框架/自动微分/images/tangent_adjoint.png"
     },
     {
-      "basename": "名词积累",
-      "path": "论文写作/英文积累/名词积累.md"
+      "basename": "reversed_mode",
+      "path": "人工智能/AI框架/自动微分/images/reversed_mode.png"
     },
     {
-      "basename": "日常",
-      "path": "论文写作/英文积累/日常.md"
+      "basename": "jacobian",
+      "path": "人工智能/AI框架/自动微分/images/jacobian.png"
     },
     {
-      "basename": "专有名词",
-      "path": "论文写作/英文积累/专有名词.md"
+      "basename": "forward_mode",
+      "path": "人工智能/AI框架/自动微分/images/forward_mode.png"
     },
     {
-      "basename": "glossary",
-      "path": "论文写作/英文积累/glossary.md"
+      "basename": "autodiff08",
+      "path": "人工智能/AI框架/自动微分/images/autodiff08.png"
     },
     {
-      "basename": "常用英文表达",
-      "path": "论文写作/英文积累/常用英文表达.md"
+      "basename": "autodiff07",
+      "path": "人工智能/AI框架/自动微分/images/autodiff07.png"
     },
     {
-      "basename": "近意词汇分辨",
-      "path": "论文写作/英文积累/近意词汇分辨.md"
+      "basename": "autodiff06",
+      "path": "人工智能/AI框架/自动微分/images/autodiff06.png"
     },
     {
-      "basename": "名人名言",
-      "path": "实用工具/小知识/名人名言.md"
+      "basename": "autodiff05",
+      "path": "人工智能/AI框架/自动微分/images/autodiff05.png"
     },
     {
-      "basename": "git相关问题",
-      "path": "实用工具/小知识/git相关问题.md"
+      "basename": "autodiff04",
+      "path": "人工智能/AI框架/自动微分/images/autodiff04.png"
     },
     {
-      "basename": "AnuPpuccinMD元素设置对照",
-      "path": "实用工具/小知识/AnuPpuccinMD元素设置对照.md"
+      "basename": "autodiff03",
+      "path": "人工智能/AI框架/自动微分/images/autodiff03.png"
     },
     {
-      "basename": "开源相关知识",
-      "path": "实用工具/小知识/开源相关知识.md"
+      "basename": "autodiff02",
+      "path": "人工智能/AI框架/自动微分/images/autodiff02.png"
     },
     {
-      "basename": "计算机软件配置",
-      "path": "实用工具/小知识/计算机软件配置.md"
+      "basename": "autodiff01",
+      "path": "人工智能/AI框架/自动微分/images/autodiff01.png"
     },
     {
-      "basename": "各种报错解决方案",
-      "path": "实用工具/小知识/各种报错解决方案.md"
+      "basename": "paradigm01",
+      "path": "人工智能/AI框架/框架基础/images/paradigm01.png"
     },
     {
-      "basename": "ubuntu基础知识",
-      "path": "编程相关/系统/ubuntu基础知识.md"
+      "basename": "introduction01",
+      "path": "人工智能/AI框架/框架基础/images/introduction01.png"
     },
     {
-      "basename": "vim基础语法",
-      "path": "编程相关/编辑器/vim基础语法.md"
+      "basename": "function_apprcimate",
+      "path": "人工智能/AI框架/框架基础/images/function_apprcimate.png"
     },
     {
-      "basename": "conda相关",
-      "path": "编程相关/编辑器/conda相关.md"
+      "basename": "framework_trend06",
+      "path": "人工智能/AI框架/框架基础/images/framework_trend06.png"
     },
     {
-      "basename": "cmd常用命令",
-      "path": "编程相关/系统/cmd常用命令.md"
+      "basename": "framework_trend05",
+      "path": "人工智能/AI框架/框架基础/images/framework_trend05.png"
     },
     {
-      "basename": "pycharm相关",
-      "path": "编程相关/编辑器/pycharm相关.md"
+      "basename": "framework_trend04",
+      "path": "人工智能/AI框架/框架基础/images/framework_trend04.png"
     },
     {
-      "basename": "7.3 使用TensorBoard可视化训练过程",
-      "path": "编程相关/python/pytorch/章节/第七章/7.3 使用TensorBoard可视化训练过程.md"
+      "basename": "framework_trend02",
+      "path": "人工智能/AI框架/框架基础/images/framework_trend02.png"
     },
     {
-      "basename": "6.2023-08-28",
-      "path": "日志/6.2023-08-28.md"
+      "basename": "framework_trend01",
+      "path": "人工智能/AI框架/框架基础/images/framework_trend01.png"
     },
     {
-      "basename": "Python格式化字符串f-string",
-      "path": "编程相关/python/python基础/Python格式化字符串f-string.md"
+      "basename": "framework_dev03",
+      "path": "人工智能/AI框架/框架基础/images/framework_dev03.png"
     },
     {
-      "basename": "python基础知识",
-      "path": "编程相关/python/python基础/python基础知识.md"
+      "basename": "framework_arch02",
+      "path": "人工智能/AI框架/框架基础/images/framework_arch02.png"
     },
     {
-      "basename": "3. Python 面向对象编程",
-      "path": "编程相关/python/python基础/3. Python 面向对象编程.md"
+      "basename": "framework_arch01",
+      "path": "人工智能/AI框架/框架基础/images/framework_arch01.png"
     },
     {
-      "basename": "2. Python 数据结构",
-      "path": "编程相关/python/python基础/2. Python 数据结构.md"
+      "basename": "deeplearning08",
+      "path": "人工智能/AI框架/框架基础/images/deeplearning08.png"
     },
     {
-      "basename": "1. Python 安装及基本语法",
-      "path": "编程相关/python/python基础/1. Python 安装及基本语法.md"
+      "basename": "deeplearning07",
+      "path": "人工智能/AI框架/框架基础/images/deeplearning07.png"
     },
     {
-      "basename": "4. Python 文件与模块",
-      "path": "编程相关/python/python基础/4. Python 文件与模块.md"
+      "basename": "deeplearning05",
+      "path": "人工智能/AI框架/框架基础/images/deeplearning05.png"
     },
     {
-      "basename": "屏幕截图 2023-09-01 224349",
-      "path": "实用工具/桌面截图保存位置/屏幕截图 2023-09-01 224349.png"
+      "basename": "deeplearning03",
+      "path": "人工智能/AI框架/框架基础/images/deeplearning03.png"
     },
     {
-      "basename": "cat-dog-train",
-      "path": "人工智能/深度学习基础/笔记/imgs/23-环境和分布偏移/cat-dog-train.svg"
+      "basename": "deeplearning02",
+      "path": "人工智能/AI框架/框架基础/images/deeplearning02.png"
     },
     {
-      "basename": "cat-dog-test",
-      "path": "人工智能/深度学习基础/笔记/imgs/23-环境和分布偏移/cat-dog-test.svg"
+      "basename": "deeplearning01",
+      "path": "人工智能/AI框架/框架基础/images/deeplearning01.png"
     },
     {
-      "basename": "正则表达式",
-      "path": "编程相关/编辑器/正则表达式.md"
+      "basename": "Canvas 1",
+      "path": "人工智能/AI框架/框架基础/images/Canvas 1.png"
     },
     {
-      "basename": "23-环境和分布偏移",
-      "path": "人工智能/深度学习基础/笔记/名词概念解释/23-环境和分布偏移.md"
+      "basename": "transformer01",
+      "path": "人工智能/AI框架/计算图/images/transformer01.png"
     },
     {
-      "basename": "popvssoda",
-      "path": "人工智能/深度学习基础/笔记/imgs/23-环境和分布偏移/popvssoda.png"
+      "basename": "model_parallel02",
+      "path": "人工智能/AI框架/计算图/images/model_parallel02.png"
     },
     {
-      "basename": "23-LeNet",
-      "path": "人工智能/深度学习基础/笔记/经典卷积神经网络/23-LeNet.md"
+      "basename": "model_parallel01",
+      "path": "人工智能/AI框架/计算图/images/model_parallel01.png"
     },
     {
-      "basename": "开源3",
-      "path": "实用工具/小知识/图片/开源3.jpg"
+      "basename": "graph_framework02",
+      "path": "人工智能/AI框架/计算图/images/graph_framework02.png"
     },
     {
-      "basename": "文件的状态变化周期",
-      "path": "实用工具/小知识/图片/文件的状态变化周期.png"
+      "basename": "graph_framework01",
+      "path": "人工智能/AI框架/计算图/images/graph_framework01.png"
     },
     {
-      "basename": "3.7 训练与评估",
-      "path": "编程相关/python/pytorch/章节/第三章/3.7 训练与评估.md"
+      "basename": "future02",
+      "path": "人工智能/AI框架/计算图/images/future02.png"
     },
     {
-      "basename": "3.8 可视化",
-      "path": "编程相关/python/pytorch/章节/第三章/3.8 可视化.md"
+      "basename": "future01",
+      "path": "人工智能/AI框架/计算图/images/future01.png"
     },
     {
-      "basename": "3.9 优化器",
-      "path": "编程相关/python/pytorch/章节/第三章/3.9 优化器.md"
+      "basename": "framework05",
+      "path": "人工智能/AI框架/计算图/images/framework05.png"
     },
     {
-      "basename": "2.1 张量",
-      "path": "编程相关/python/pytorch/章节/第二章/2.1 张量.md"
+      "basename": "framework04",
+      "path": "人工智能/AI框架/计算图/images/framework04.png"
     },
     {
-      "basename": "57-3",
-      "path": "人工智能/深度学习基础/笔记/imgs/57/57-3.png"
+      "basename": "framework02",
+      "path": "人工智能/AI框架/计算图/images/framework02.png"
     },
     {
-      "basename": "57-2",
-      "path": "人工智能/深度学习基础/笔记/imgs/57/57-2.png"
+      "basename": "framework_trend02",
+      "path": "人工智能/AI框架/计算图/images/framework_trend02.png"
     },
     {
-      "basename": "57-1",
-      "path": "人工智能/深度学习基础/笔记/imgs/57/57-1.png"
+      "basename": "framework_arch01",
+      "path": "人工智能/AI框架/计算图/images/framework_arch01.png"
     },
     {
-      "basename": "parameters",
-      "path": "人工智能/深度学习基础/笔记/深度学习计算/parameters.md"
+      "basename": "forward_mode06",
+      "path": "人工智能/AI框架/计算图/images/forward_mode06.png"
     },
     {
-      "basename": "model-construction",
-      "path": "人工智能/深度学习基础/笔记/深度学习计算/model-construction.md"
+      "basename": "forward_mode05",
+      "path": "人工智能/AI框架/计算图/images/forward_mode05.png"
     },
     {
-      "basename": "deferred-init",
-      "path": "人工智能/深度学习基础/笔记/深度学习计算/deferred-init.md"
+      "basename": "forward_mode04",
+      "path": "人工智能/AI框架/计算图/images/forward_mode04.png"
     },
     {
-      "basename": "custom-layer",
-      "path": "人工智能/深度学习基础/笔记/深度学习计算/custom-layer.md"
+      "basename": "forward_mode03",
+      "path": "人工智能/AI框架/计算图/images/forward_mode03.png"
     },
     {
-      "basename": "bahdanau-attention",
-      "path": "人工智能/深度学习基础/代码/attention-mechanisms/bahdanau-attention.md"
+      "basename": "forward_mode02",
+      "path": "人工智能/AI框架/计算图/images/forward_mode02.png"
     },
     {
-      "basename": "attention-scoring-functions",
-      "path": "人工智能/深度学习基础/代码/attention-mechanisms/attention-scoring-functions.md"
+      "basename": "forward_mode01",
+      "path": "人工智能/AI框架/计算图/images/forward_mode01.png"
     },
     {
-      "basename": "attention-cues",
-      "path": "人工智能/深度学习基础/代码/attention-mechanisms/attention-cues.md"
+      "basename": "dispatch03",
+      "path": "人工智能/AI框架/计算图/images/dispatch03.png"
+    },
+    {
+      "basename": "data_type03",
+      "path": "人工智能/AI框架/计算图/images/data_type03.png"
     }
   ],
   "omittedPaths": [

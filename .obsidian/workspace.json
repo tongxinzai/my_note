@@ -11,24 +11,15 @@
             "id": "7e252f42d4f4726c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "人工智能/AI框架/自动微分/images/tangent_adjoint.png"
-              }
-            }
-          },
-          {
-            "id": "4045e2f22dd8d49b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.12"
+                "file": "编程相关/编辑器/vim基础语法.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "conda",
+                "query": "vim",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -82,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -103,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人工智能/AI框架/自动微分/images/tangent_adjoint.png",
+                "file": "编程相关/编辑器/vim基础语法.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人工智能/AI框架/自动微分/images/tangent_adjoint.png",
+                "file": "编程相关/编辑器/vim基础语法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -177,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人工智能/AI框架/自动微分/images/tangent_adjoint.png"
+                "file": "编程相关/编辑器/vim基础语法.md"
               }
             }
           }
@@ -200,8 +192,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4045e2f22dd8d49b",
+  "active": "7e252f42d4f4726c",
   "lastOpenFiles": [
+    "编程相关/系统/ubuntu基础知识.md",
+    "编程相关/编辑器/jupyter notebook.md",
+    "实用工具/小知识/git相关问题.md",
+    "人工智能/模型推理相关/推理系统.md",
+    "人工智能/模型推理相关/模型转换与优化.md",
+    "人工智能/AI框架/框架基础/04.programing.md",
+    "人工智能/AI框架/框架基础/03.history.md",
+    "人工智能/AI框架/框架基础/02.fundamentals.md",
+    "人工智能/AI框架/框架基础/01.introduction.md",
+    "日志/7.2023-09-04 2023-09-11.md",
+    "编程相关/Ascend/模型推理/未命名",
+    "编程相关/Ascend/模型推理",
+    "编程相关/Ascend",
+    "人工智能/AI框架/自动微分/images/tangent_adjoint.png",
     "人工智能/AI框架/自动微分/images/reversed_mode.png",
     "人工智能/AI框架/自动微分/images/jacobian.png",
     "人工智能/AI框架/自动微分/images/forward_mode.png",
@@ -211,8 +217,6 @@
     "人工智能/AI框架/自动微分/images/autodiff05.png",
     "人工智能/AI框架/自动微分/images/autodiff04.png",
     "人工智能/AI框架/自动微分/images/autodiff03.png",
-    "人工智能/AI框架/自动微分/images/autodiff02.png",
-    "人工智能/AI框架/自动微分/images/autodiff01.png",
     "人工智能/AI框架/计算图/01.introduction.md",
     "人工智能/AI框架/自动微分/06.reversed_mode.md",
     "人工智能/AI框架/自动微分/05.forward_mode.md",
@@ -220,10 +224,6 @@
     "人工智能/AI框架/自动微分/03.grad_mode.md",
     "人工智能/AI框架/自动微分/02.base_concept.md",
     "人工智能/AI框架/自动微分/01.introduction.md",
-    "人工智能/AI框架/框架基础/04.programing.md",
-    "人工智能/AI框架/框架基础/03.history.md",
-    "人工智能/AI框架/框架基础/02.fundamentals.md",
-    "人工智能/AI框架/框架基础/01.introduction.md",
     "人工智能/AI框架/计算图/07.future.md",
     "人工智能/AI框架/计算图/06.static_graph.md",
     "人工智能/AI框架/计算图/05.control_flow.md",
@@ -233,12 +233,6 @@
     "人工智能/神经网络压缩加速/知识蒸馏（综述）.md",
     "人工智能/神经网络压缩加速/深度神经网络结构搜索（综述）.md",
     "人工智能/神经网络压缩加速/模型压缩与加速（综述）.md",
-    "人工智能/神经网络压缩加速/模型压缩方法原理概述.md",
-    "人工智能/模型推理相关/推理系统.md",
-    "人工智能/模型推理相关/模型转换与优化.md",
-    "编程相关/各种报错解决方案.md",
-    "编程相关/编辑器/conda相关.md",
-    "编程相关/未命名",
     "人工智能/深度学习基础/note",
     "人工智能/深度学习基础/笔记/imgs/异步计算",
     "人工智能/深度学习基础/笔记/imgs/参数服务器",
@@ -246,8 +240,6 @@
     "人工智能/深度学习基础/代码/computational-performance/multiple-gpus_files",
     "人工智能/深度学习基础/笔记/imgs/34-多gpu训练",
     "人工智能/深度学习基础/笔记/imgs/hardware",
-    "figures",
-    "人工智能/深度学习基础/code/linear-networks/image-classification-dataset_files",
     "Untitled.canvas"
   ]
 }

@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "vim基础语法",
+      "path": "编程相关/编辑器/vim基础语法.md"
+    },
+    {
+      "basename": "ubuntu基础知识",
+      "path": "编程相关/系统/ubuntu基础知识.md"
+    },
+    {
+      "basename": "jupyter notebook",
+      "path": "编程相关/编辑器/jupyter notebook.md"
+    },
+    {
+      "basename": "git相关问题",
+      "path": "实用工具/小知识/git相关问题.md"
+    },
+    {
+      "basename": "推理系统",
+      "path": "人工智能/模型推理相关/推理系统.md"
+    },
+    {
+      "basename": "模型转换与优化",
+      "path": "人工智能/模型推理相关/模型转换与优化.md"
+    },
+    {
+      "basename": "04.programing",
+      "path": "人工智能/AI框架/框架基础/04.programing.md"
+    },
+    {
+      "basename": "03.history",
+      "path": "人工智能/AI框架/框架基础/03.history.md"
+    },
+    {
+      "basename": "02.fundamentals",
+      "path": "人工智能/AI框架/框架基础/02.fundamentals.md"
+    },
+    {
+      "basename": "01.introduction",
+      "path": "人工智能/AI框架/框架基础/01.introduction.md"
+    },
+    {
+      "basename": "7.2023-09-04 2023-09-11",
+      "path": "日志/7.2023-09-04 2023-09-11.md"
+    },
+    {
       "basename": "tangent_adjoint",
       "path": "人工智能/AI框架/自动微分/images/tangent_adjoint.png"
     },
@@ -155,50 +199,6 @@
     {
       "basename": "framework04",
       "path": "人工智能/AI框架/计算图/images/framework04.png"
-    },
-    {
-      "basename": "framework02",
-      "path": "人工智能/AI框架/计算图/images/framework02.png"
-    },
-    {
-      "basename": "framework_trend02",
-      "path": "人工智能/AI框架/计算图/images/framework_trend02.png"
-    },
-    {
-      "basename": "framework_arch01",
-      "path": "人工智能/AI框架/计算图/images/framework_arch01.png"
-    },
-    {
-      "basename": "forward_mode06",
-      "path": "人工智能/AI框架/计算图/images/forward_mode06.png"
-    },
-    {
-      "basename": "forward_mode05",
-      "path": "人工智能/AI框架/计算图/images/forward_mode05.png"
-    },
-    {
-      "basename": "forward_mode04",
-      "path": "人工智能/AI框架/计算图/images/forward_mode04.png"
-    },
-    {
-      "basename": "forward_mode03",
-      "path": "人工智能/AI框架/计算图/images/forward_mode03.png"
-    },
-    {
-      "basename": "forward_mode02",
-      "path": "人工智能/AI框架/计算图/images/forward_mode02.png"
-    },
-    {
-      "basename": "forward_mode01",
-      "path": "人工智能/AI框架/计算图/images/forward_mode01.png"
-    },
-    {
-      "basename": "dispatch03",
-      "path": "人工智能/AI框架/计算图/images/dispatch03.png"
-    },
-    {
-      "basename": "data_type03",
-      "path": "人工智能/AI框架/计算图/images/data_type03.png"
     }
   ],
   "omittedPaths": [

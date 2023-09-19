@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "vim基础语法",
-      "path": "编程相关/编辑器/vim基础语法.md"
+      "basename": "--概述--",
+      "path": "日志/--概述--.md"
     },
     {
       "basename": "ubuntu基础知识",
       "path": "编程相关/系统/ubuntu基础知识.md"
+    },
+    {
+      "basename": "conda相关",
+      "path": "编程相关/编辑器/conda相关.md"
+    },
+    {
+      "basename": "7.2023-09-04 2023-09-11",
+      "path": "日志/7.2023-09-04 2023-09-11.md"
+    },
+    {
+      "basename": "vim基础语法",
+      "path": "编程相关/编辑器/vim基础语法.md"
     },
     {
       "basename": "jupyter notebook",
@@ -39,10 +51,6 @@
     {
       "basename": "01.introduction",
       "path": "人工智能/AI框架/框架基础/01.introduction.md"
-    },
-    {
-      "basename": "7.2023-09-04 2023-09-11",
-      "path": "日志/7.2023-09-04 2023-09-11.md"
     },
     {
       "basename": "tangent_adjoint",
@@ -191,14 +199,6 @@
     {
       "basename": "future01",
       "path": "人工智能/AI框架/计算图/images/future01.png"
-    },
-    {
-      "basename": "framework05",
-      "path": "人工智能/AI框架/计算图/images/framework05.png"
-    },
-    {
-      "basename": "framework04",
-      "path": "人工智能/AI框架/计算图/images/framework04.png"
     }
   ],
   "omittedPaths": [

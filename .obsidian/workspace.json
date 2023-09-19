@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程相关/编辑器/vim基础语法.md",
+                "file": "日志/--概述--.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vim",
+                "query": "ubuntu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程相关/编辑器/vim基础语法.md",
+                "file": "日志/--概述--.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编程相关/编辑器/vim基础语法.md",
+                "file": "日志/--概述--.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -169,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程相关/编辑器/vim基础语法.md"
+                "file": "日志/--概述--.md"
               }
             }
           }
@@ -195,6 +194,9 @@
   "active": "7e252f42d4f4726c",
   "lastOpenFiles": [
     "编程相关/系统/ubuntu基础知识.md",
+    "编程相关/编辑器/conda相关.md",
+    "日志/7.2023-09-04 2023-09-11.md",
+    "编程相关/编辑器/vim基础语法.md",
     "编程相关/编辑器/jupyter notebook.md",
     "实用工具/小知识/git相关问题.md",
     "人工智能/模型推理相关/推理系统.md",
@@ -203,7 +205,6 @@
     "人工智能/AI框架/框架基础/03.history.md",
     "人工智能/AI框架/框架基础/02.fundamentals.md",
     "人工智能/AI框架/框架基础/01.introduction.md",
-    "日志/7.2023-09-04 2023-09-11.md",
     "编程相关/Ascend/模型推理/未命名",
     "编程相关/Ascend/模型推理",
     "编程相关/Ascend",
@@ -231,8 +232,6 @@
     "人工智能/AI框架/计算图/03.atuodiff.md",
     "人工智能/AI框架/计算图/02.computegraph.md",
     "人工智能/神经网络压缩加速/知识蒸馏（综述）.md",
-    "人工智能/神经网络压缩加速/深度神经网络结构搜索（综述）.md",
-    "人工智能/神经网络压缩加速/模型压缩与加速（综述）.md",
     "人工智能/深度学习基础/note",
     "人工智能/深度学习基础/笔记/imgs/异步计算",
     "人工智能/深度学习基础/笔记/imgs/参数服务器",

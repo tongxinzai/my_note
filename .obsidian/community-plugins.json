@@ -1,6 +1,5 @@
 [
   "cmdr",
-  "obsidian-git",
   "keyboard-analyzer",
   "editing-toolbar",
   "obsidian-style-settings",
@@ -13,5 +12,5 @@
   "obsidian-regex-replace",
   "recent-files-obsidian",
   "obsidian-outliner",
-  "remotely-save"
+  "obsidian-git"
 ]

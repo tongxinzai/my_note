@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "--概述--",
-      "path": "日志/--概述--.md"
+      "basename": "正则表达式",
+      "path": "编程相关/编辑器/正则表达式.md"
     },
     {
       "basename": "ubuntu基础知识",
-      "path": "编程相关/系统/ubuntu基础知识.md"
+      "path": "编程相关/系统/ubuntu/ubuntu基础知识.md"
+    },
+    {
+      "basename": "各种报错解决方案",
+      "path": "编程相关/各种报错解决方案.md"
+    },
+    {
+      "basename": "01.01.02-Algorithm-Complexity",
+      "path": "编程相关/数据结构与算法/leetcode-notes/ch01/01.01/01.01.02-Algorithm-Complexity.md"
+    },
+    {
+      "basename": "01.01.01-Data-Structures-Algorithms",
+      "path": "编程相关/数据结构与算法/leetcode-notes/ch01/01.01/01.01.01-Data-Structures-Algorithms.md"
+    },
+    {
+      "basename": "chmod相关",
+      "path": "编程相关/系统/ubuntu/chmod相关.md"
+    },
+    {
+      "basename": "C++基础入门",
+      "path": "编程相关/C++/C++基础/C++基础入门.md"
     },
     {
       "basename": "conda相关",
       "path": "编程相关/编辑器/conda相关.md"
+    },
+    {
+      "basename": "--概述--",
+      "path": "日志/--概述--.md"
     },
     {
       "basename": "7.2023-09-04 2023-09-11",
@@ -175,30 +199,6 @@
     {
       "basename": "transformer01",
       "path": "人工智能/AI框架/计算图/images/transformer01.png"
-    },
-    {
-      "basename": "model_parallel02",
-      "path": "人工智能/AI框架/计算图/images/model_parallel02.png"
-    },
-    {
-      "basename": "model_parallel01",
-      "path": "人工智能/AI框架/计算图/images/model_parallel01.png"
-    },
-    {
-      "basename": "graph_framework02",
-      "path": "人工智能/AI框架/计算图/images/graph_framework02.png"
-    },
-    {
-      "basename": "graph_framework01",
-      "path": "人工智能/AI框架/计算图/images/graph_framework01.png"
-    },
-    {
-      "basename": "future02",
-      "path": "人工智能/AI框架/计算图/images/future02.png"
-    },
-    {
-      "basename": "future01",
-      "path": "人工智能/AI框架/计算图/images/future01.png"
     }
   ],
   "omittedPaths": [

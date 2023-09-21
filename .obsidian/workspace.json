@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日志/--概述--.md",
+                "file": "编程相关/系统/ubuntu/ubuntu基础知识.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09d1d50d7db8bc2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程相关/编辑器/正则表达式.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ubuntu",
+                "query": "挂载",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,11 +86,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 260.00390625
+    "width": 227.00390625
   },
   "right": {
     "id": "d89965f6c83e0ed7",
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日志/--概述--.md",
+                "file": "编程相关/编辑器/正则表达式.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日志/--概述--.md",
+                "file": "编程相关/编辑器/正则表达式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -168,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日志/--概述--.md"
+                "file": "编程相关/编辑器/正则表达式.md"
               }
             }
           }
@@ -181,7 +195,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "remotely-save:Remotely Save": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -191,10 +204,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7e252f42d4f4726c",
+  "active": "09d1d50d7db8bc2d",
   "lastOpenFiles": [
-    "编程相关/系统/ubuntu基础知识.md",
+    "编程相关/系统/ubuntu/ubuntu基础知识.md",
+    "编程相关/各种报错解决方案.md",
+    "编程相关/数据结构与算法/leetcode-notes/ch01/01.01/01.01.02-Algorithm-Complexity.md",
+    "编程相关/数据结构与算法/leetcode-notes/ch01/01.01/01.01.01-Data-Structures-Algorithms.md",
+    "编程相关/系统/ubuntu/chmod相关.md",
+    "编程相关/系统/ubuntu",
+    "编程相关/C++/C++基础/C++基础入门.md",
+    "编程相关/C++/C++基础/基础语法.md",
+    "编程相关/编辑器/正则表达式.md",
     "编程相关/编辑器/conda相关.md",
+    "编程相关/C++/C++基础",
+    "编程相关/C++",
+    "日志/--概述--.md",
     "日志/7.2023-09-04 2023-09-11.md",
     "编程相关/编辑器/vim基础语法.md",
     "编程相关/编辑器/jupyter notebook.md",
@@ -224,21 +248,10 @@
     "人工智能/AI框架/自动微分/04.implement.md",
     "人工智能/AI框架/自动微分/03.grad_mode.md",
     "人工智能/AI框架/自动微分/02.base_concept.md",
-    "人工智能/AI框架/自动微分/01.introduction.md",
-    "人工智能/AI框架/计算图/07.future.md",
-    "人工智能/AI框架/计算图/06.static_graph.md",
-    "人工智能/AI框架/计算图/05.control_flow.md",
-    "人工智能/AI框架/计算图/04.dispatch.md",
-    "人工智能/AI框架/计算图/03.atuodiff.md",
-    "人工智能/AI框架/计算图/02.computegraph.md",
-    "人工智能/神经网络压缩加速/知识蒸馏（综述）.md",
     "人工智能/深度学习基础/note",
     "人工智能/深度学习基础/笔记/imgs/异步计算",
     "人工智能/深度学习基础/笔记/imgs/参数服务器",
     "人工智能/深度学习基础/代码/computational-performance/multiple-gpus-concise_files",
-    "人工智能/深度学习基础/代码/computational-performance/multiple-gpus_files",
-    "人工智能/深度学习基础/笔记/imgs/34-多gpu训练",
-    "人工智能/深度学习基础/笔记/imgs/hardware",
     "Untitled.canvas"
   ]
 }

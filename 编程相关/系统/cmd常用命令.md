@@ -81,3 +81,8 @@ brew list
 
 #### 查看计算机信息
 cmd 中输入 systeminfo
+
+#### 关闭计算机休眠状态
+``` cmd
+powercfg -h off
+```

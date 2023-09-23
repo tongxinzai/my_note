@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程相关/系统/ubuntu/ubuntu基础知识.md",
+                "file": "编程相关/系统/cmd常用命令.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程相关/编辑器/正则表达式.md",
+                "file": "编程相关/系统/ubuntu/ubuntu基础知识.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "挂载",
+                "query": "conda",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -86,8 +85,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -108,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程相关/编辑器/正则表达式.md",
+                "file": "编程相关/系统/cmd常用命令.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编程相关/编辑器/正则表达式.md",
+                "file": "编程相关/系统/cmd常用命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -182,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程相关/编辑器/正则表达式.md"
+                "file": "编程相关/系统/cmd常用命令.md"
               }
             }
           }
@@ -204,18 +202,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "09d1d50d7db8bc2d",
+  "active": "7e252f42d4f4726c",
   "lastOpenFiles": [
+    "编程相关/编辑器/conda相关.md",
     "编程相关/系统/ubuntu/ubuntu基础知识.md",
     "编程相关/各种报错解决方案.md",
+    "编程相关/系统/ubuntu/chmod相关.md",
+    "编程相关/编辑器/正则表达式.md",
     "编程相关/数据结构与算法/leetcode-notes/ch01/01.01/01.01.02-Algorithm-Complexity.md",
     "编程相关/数据结构与算法/leetcode-notes/ch01/01.01/01.01.01-Data-Structures-Algorithms.md",
-    "编程相关/系统/ubuntu/chmod相关.md",
     "编程相关/系统/ubuntu",
     "编程相关/C++/C++基础/C++基础入门.md",
     "编程相关/C++/C++基础/基础语法.md",
-    "编程相关/编辑器/正则表达式.md",
-    "编程相关/编辑器/conda相关.md",
     "编程相关/C++/C++基础",
     "编程相关/C++",
     "日志/--概述--.md",

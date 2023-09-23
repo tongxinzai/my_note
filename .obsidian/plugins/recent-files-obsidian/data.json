@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "正则表达式",
-      "path": "编程相关/编辑器/正则表达式.md"
+      "basename": "cmd常用命令",
+      "path": "编程相关/系统/cmd常用命令.md"
+    },
+    {
+      "basename": "conda相关",
+      "path": "编程相关/编辑器/conda相关.md"
     },
     {
       "basename": "ubuntu基础知识",
@@ -13,6 +17,14 @@
       "path": "编程相关/各种报错解决方案.md"
     },
     {
+      "basename": "chmod相关",
+      "path": "编程相关/系统/ubuntu/chmod相关.md"
+    },
+    {
+      "basename": "正则表达式",
+      "path": "编程相关/编辑器/正则表达式.md"
+    },
+    {
       "basename": "01.01.02-Algorithm-Complexity",
       "path": "编程相关/数据结构与算法/leetcode-notes/ch01/01.01/01.01.02-Algorithm-Complexity.md"
     },
@@ -21,16 +33,8 @@
       "path": "编程相关/数据结构与算法/leetcode-notes/ch01/01.01/01.01.01-Data-Structures-Algorithms.md"
     },
     {
-      "basename": "chmod相关",
-      "path": "编程相关/系统/ubuntu/chmod相关.md"
-    },
-    {
       "basename": "C++基础入门",
       "path": "编程相关/C++/C++基础/C++基础入门.md"
-    },
-    {
-      "basename": "conda相关",
-      "path": "编程相关/编辑器/conda相关.md"
     },
     {
       "basename": "--概述--",
@@ -195,10 +199,6 @@
     {
       "basename": "Canvas 1",
       "path": "人工智能/AI框架/框架基础/images/Canvas 1.png"
-    },
-    {
-      "basename": "transformer01",
-      "path": "人工智能/AI框架/计算图/images/transformer01.png"
     }
   ],
   "omittedPaths": [

@@ -19,3 +19,12 @@ PyTorch是一个常用的深度学习框架，它提供了丰富的工具和库�
 7. `torch.nn.functional`：PyTorch的函数式接口模块，提供了各种常用的非线性激活函数、损失函数和其他操作函数，如ReLU、softmax、cross entropy等。
 8. `torch.utils`：PyTorch的实用工具模块，提供了各种实用函数和类，如模型保存和加载、学习率调度器、随机种子等。
 以上只是PyTorch库中的一些常见模块和功能，还有其他许多模块和功能可用于不同的深度学习任务。PyTorch具有易用性和灵活性，并在学术界和工业界广泛应用。
+
+
+#### 检查pytorch是否安装成功、查看torch和cuda的版本
+```
+import torch # 如果pytorch安装成功即可导入
+print(torch.cuda.is_available()) # 查看CUDA是否可用
+print(torch.cuda.device_count()) # 查看可用的CUDA数量
+print(torch.version.cuda) # 查看CUDA的版本号
+```

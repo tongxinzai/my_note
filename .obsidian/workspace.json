@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程相关/系统/cmd常用命令.md",
+                "file": "编程相关/系统/ubuntu/ubuntu基础知识.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程相关/系统/ubuntu/ubuntu基础知识.md",
+                "file": "文献阅读/模型压缩相关/知识蒸馏/DIST_KD.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "conda",
+                "query": "torch",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程相关/系统/cmd常用命令.md",
+                "file": "文献阅读/模型压缩相关/知识蒸馏/DIST_KD.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编程相关/系统/cmd常用命令.md",
+                "file": "文献阅读/模型压缩相关/知识蒸馏/DIST_KD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -180,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程相关/系统/cmd常用命令.md"
+                "file": "文献阅读/模型压缩相关/知识蒸馏/DIST_KD.md"
               }
             }
           }
@@ -202,9 +203,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7e252f42d4f4726c",
+  "active": "09d1d50d7db8bc2d",
   "lastOpenFiles": [
+    "文献阅读/模型压缩相关/知识蒸馏/SimKD.md",
+    "文献阅读/模型压缩相关/知识蒸馏/KD.md",
+    "文献阅读/模型压缩相关/知识蒸馏/good teacher.md",
+    "文献阅读/模型压缩相关/知识蒸馏/DIST_KD.md",
+    "文献阅读/模型压缩相关/知识蒸馏/DKD.md",
+    "文献阅读/模型压缩相关/知识蒸馏/VanillaKD  Revisit.md",
+    "文献阅读/模型压缩相关/知识蒸馏/DeiT.md",
+    "文献阅读/Notetool/papers/Knowledge Distillation with the Reused Teacher Classifier.pdf",
+    "文献阅读/模型压缩相关/知识蒸馏/FGD.md",
+    "文献阅读/模型压缩相关/知识蒸馏/知识蒸馏相关.md",
+    "编程相关/python/python库学习/pytorch/torch库概述.md",
+    "编程相关/python/python库学习/argparse库.md",
     "编程相关/编辑器/conda相关.md",
+    "编程相关/系统/cmd常用命令.md",
+    "编程相关/python/pytorch/章节/第零章/0.2 评价指标.md",
+    "编程相关/python/pytorch/章节/第零章/0.1 人工智能简史.md",
+    "编程相关/python/pytorch/章节/第二章/2.1 张量.md",
+    "编程相关/python/pytorch/notebook/第零章 前置知识补充/进阶操作.ipynb",
     "编程相关/系统/ubuntu/ubuntu基础知识.md",
     "编程相关/各种报错解决方案.md",
     "编程相关/系统/ubuntu/chmod相关.md",
@@ -217,16 +235,6 @@
     "编程相关/C++/C++基础",
     "编程相关/C++",
     "日志/--概述--.md",
-    "日志/7.2023-09-04 2023-09-11.md",
-    "编程相关/编辑器/vim基础语法.md",
-    "编程相关/编辑器/jupyter notebook.md",
-    "实用工具/小知识/git相关问题.md",
-    "人工智能/模型推理相关/推理系统.md",
-    "人工智能/模型推理相关/模型转换与优化.md",
-    "人工智能/AI框架/框架基础/04.programing.md",
-    "人工智能/AI框架/框架基础/03.history.md",
-    "人工智能/AI框架/框架基础/02.fundamentals.md",
-    "人工智能/AI框架/框架基础/01.introduction.md",
     "编程相关/Ascend/模型推理/未命名",
     "编程相关/Ascend/模型推理",
     "编程相关/Ascend",
@@ -240,16 +248,8 @@
     "人工智能/AI框架/自动微分/images/autodiff05.png",
     "人工智能/AI框架/自动微分/images/autodiff04.png",
     "人工智能/AI框架/自动微分/images/autodiff03.png",
-    "人工智能/AI框架/计算图/01.introduction.md",
-    "人工智能/AI框架/自动微分/06.reversed_mode.md",
-    "人工智能/AI框架/自动微分/05.forward_mode.md",
-    "人工智能/AI框架/自动微分/04.implement.md",
-    "人工智能/AI框架/自动微分/03.grad_mode.md",
-    "人工智能/AI框架/自动微分/02.base_concept.md",
     "人工智能/深度学习基础/note",
     "人工智能/深度学习基础/笔记/imgs/异步计算",
-    "人工智能/深度学习基础/笔记/imgs/参数服务器",
-    "人工智能/深度学习基础/代码/computational-performance/multiple-gpus-concise_files",
     "Untitled.canvas"
   ]
 }

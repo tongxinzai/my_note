@@ -1,12 +1,76 @@
 {
   "recentFiles": [
     {
-      "basename": "cmd常用命令",
-      "path": "编程相关/系统/cmd常用命令.md"
+      "basename": "DIST_KD",
+      "path": "文献阅读/模型压缩相关/知识蒸馏/DIST_KD.md"
+    },
+    {
+      "basename": "SimKD",
+      "path": "文献阅读/模型压缩相关/知识蒸馏/SimKD.md"
+    },
+    {
+      "basename": "KD",
+      "path": "文献阅读/模型压缩相关/知识蒸馏/KD.md"
+    },
+    {
+      "basename": "good teacher",
+      "path": "文献阅读/模型压缩相关/知识蒸馏/good teacher.md"
+    },
+    {
+      "basename": "DKD",
+      "path": "文献阅读/模型压缩相关/知识蒸馏/DKD.md"
+    },
+    {
+      "basename": "VanillaKD  Revisit",
+      "path": "文献阅读/模型压缩相关/知识蒸馏/VanillaKD  Revisit.md"
+    },
+    {
+      "basename": "DeiT",
+      "path": "文献阅读/模型压缩相关/知识蒸馏/DeiT.md"
+    },
+    {
+      "basename": "Knowledge Distillation with the Reused Teacher Classifier",
+      "path": "文献阅读/Notetool/papers/Knowledge Distillation with the Reused Teacher Classifier.pdf"
+    },
+    {
+      "basename": "FGD",
+      "path": "文献阅读/模型压缩相关/知识蒸馏/FGD.md"
+    },
+    {
+      "basename": "知识蒸馏相关",
+      "path": "文献阅读/模型压缩相关/知识蒸馏/知识蒸馏相关.md"
+    },
+    {
+      "basename": "torch库概述",
+      "path": "编程相关/python/python库学习/pytorch/torch库概述.md"
+    },
+    {
+      "basename": "argparse库",
+      "path": "编程相关/python/python库学习/argparse库.md"
     },
     {
       "basename": "conda相关",
       "path": "编程相关/编辑器/conda相关.md"
+    },
+    {
+      "basename": "cmd常用命令",
+      "path": "编程相关/系统/cmd常用命令.md"
+    },
+    {
+      "basename": "0.2 评价指标",
+      "path": "编程相关/python/pytorch/章节/第零章/0.2 评价指标.md"
+    },
+    {
+      "basename": "0.1 人工智能简史",
+      "path": "编程相关/python/pytorch/章节/第零章/0.1 人工智能简史.md"
+    },
+    {
+      "basename": "2.1 张量",
+      "path": "编程相关/python/pytorch/章节/第二章/2.1 张量.md"
+    },
+    {
+      "basename": "进阶操作",
+      "path": "编程相关/python/pytorch/notebook/第零章 前置知识补充/进阶操作.ipynb"
     },
     {
       "basename": "ubuntu基础知识",
@@ -135,70 +199,6 @@
     {
       "basename": "introduction01",
       "path": "人工智能/AI框架/框架基础/images/introduction01.png"
-    },
-    {
-      "basename": "function_apprcimate",
-      "path": "人工智能/AI框架/框架基础/images/function_apprcimate.png"
-    },
-    {
-      "basename": "framework_trend06",
-      "path": "人工智能/AI框架/框架基础/images/framework_trend06.png"
-    },
-    {
-      "basename": "framework_trend05",
-      "path": "人工智能/AI框架/框架基础/images/framework_trend05.png"
-    },
-    {
-      "basename": "framework_trend04",
-      "path": "人工智能/AI框架/框架基础/images/framework_trend04.png"
-    },
-    {
-      "basename": "framework_trend02",
-      "path": "人工智能/AI框架/框架基础/images/framework_trend02.png"
-    },
-    {
-      "basename": "framework_trend01",
-      "path": "人工智能/AI框架/框架基础/images/framework_trend01.png"
-    },
-    {
-      "basename": "framework_dev03",
-      "path": "人工智能/AI框架/框架基础/images/framework_dev03.png"
-    },
-    {
-      "basename": "framework_arch02",
-      "path": "人工智能/AI框架/框架基础/images/framework_arch02.png"
-    },
-    {
-      "basename": "framework_arch01",
-      "path": "人工智能/AI框架/框架基础/images/framework_arch01.png"
-    },
-    {
-      "basename": "deeplearning08",
-      "path": "人工智能/AI框架/框架基础/images/deeplearning08.png"
-    },
-    {
-      "basename": "deeplearning07",
-      "path": "人工智能/AI框架/框架基础/images/deeplearning07.png"
-    },
-    {
-      "basename": "deeplearning05",
-      "path": "人工智能/AI框架/框架基础/images/deeplearning05.png"
-    },
-    {
-      "basename": "deeplearning03",
-      "path": "人工智能/AI框架/框架基础/images/deeplearning03.png"
-    },
-    {
-      "basename": "deeplearning02",
-      "path": "人工智能/AI框架/框架基础/images/deeplearning02.png"
-    },
-    {
-      "basename": "deeplearning01",
-      "path": "人工智能/AI框架/框架基础/images/deeplearning01.png"
-    },
-    {
-      "basename": "Canvas 1",
-      "path": "人工智能/AI框架/框架基础/images/Canvas 1.png"
     }
   ],
   "omittedPaths": [

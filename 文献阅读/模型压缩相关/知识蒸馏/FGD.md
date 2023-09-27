@@ -1,5 +1,5 @@
 - **Focal and Global Knowledge Distillation for Detectors.** *Zhendong Yang, Zhe Li, Xiaohu Jiang, Yuan Gong, Zehuan Yuan, Danpei Zhao, Chun Yuan.* **Computer Vision and Pattern Recognition, 2021** [(PDF)](<../../NoteTool/papers/Focal and Global Knowledge Distillation for Detectors.pdf>)  [(arxiv)](https://arxiv.org/abs/2111.11837)[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc5298a80a89a5a65489b42991f9a87f734d9e0b2%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/c5298a80a89a5a65489b42991f9a87f734d9e0b2)
-源码下载：[https://github.com/yzd-v/FGD](https://github.com/yzd-v/FGD "https://github.com/yzd-v/FGD")
+源码：[https://github.com/yzd-v/FGD](https://github.com/yzd-v/FGD "https://github.com/yzd-v/FGD")
 # Abstract
 知识蒸馏已成功应用于图像分类。然而目标检测要复杂得多，大多数知识蒸馏方法都失败了。本文指出，在目标检测中，教师和学生的特征在不同的区域有很大的差异，尤其是在前景和背景中。如果我们平均蒸馏它们，特征图之间的不均匀差异将对蒸馏产生负面影响。因此，我们提出了局部和全局蒸馏（FGD）。局部蒸馏分离了前景和背景，迫使学生将注意力集中在老师的关键像素和通道上。全局蒸馏重建不同像素之间的关系，并将其从教师传递给学生，以补偿局部蒸馏中丢失的全局信息。由于我们的方法只需要在特征图上计算损失，FGD可以应用于各种检测器。我们在各种不同backbone的检测器上进行了实验，结果表明，学生检测器实现了良好的mAP提升。例如，基于ResNet-50的RetinaNet、FasterRCNN、RepPoints和Mask RCNN使用了我们的蒸馏方法在COCO2017上实现了40.7%、42.0%、42.0%和42.1%的MAP，分别比基线高3.3、3.6、3.4和2.9。
 # 1、Introduction

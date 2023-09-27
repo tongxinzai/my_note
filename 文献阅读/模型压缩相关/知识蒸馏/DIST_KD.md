@@ -1,4 +1,7 @@
 - - **Knowledge Distillation from A Stronger Teacher.** *Tao Huang, Shan You, Fei Wang, Chen Qian, Chang Xu.* **Neural Information Processing Systems, 2022** [(PDF)](<../../NoteTool/papers/Knowledge Distillation from A Stronger Teacher.pdf>)  [(arxiv)](http://arxiv.org/abs/2205.10536)[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc0ae5848ba0141dd3f827321f46110f52946764b%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/c0ae5848ba0141dd3f827321f46110f52946764b)
+源码：[hunto/DIST_KD: Official implementation of paper "Knowledge Distillation from A Stronger Teacher", NeurIPS 2022 (github.com)](https://github.com/hunto/DIST_KD)
+
+摘要：与现有的专注于基线设置的知识提取方法不同，在基线设置中，教师模型和培训策略不如最先进的方法那么强大和竞争，本文提出了一种称为DIST的方法，以从更强大的教师中提取更好的知识。我们从经验上发现，学生和实力更强的老师之间的预测差异可能会相当严重。因此，KL散度中预测的精确匹配会干扰训练，并使现有方法表现不佳。在本文中，我们证明了简单地保留教师和学生的预测之间的关系就足够了，并提出了一种基于相关性的损失来明确地捕捉教师的内在阶级间关系。此外，考虑到不同的实例对每个类具有不同的语义相似性，我们还将这种关系匹配扩展到类内级别。我们的方法简单而实用，并进行了大量的实验演示。
 ## 3 DIST: Distillation from A Stronger Teacher
 ### 3.1 Relaxed match with relations
 预测分数表明教师对所有课程的confidence(或preference)。对于老师和学生之间Relaxed match真正关心的是老师的output。实际上，在推理过程中，我们只关心它们之间的**关系**，即教师预测的相对等级，而不是确切的概率值。

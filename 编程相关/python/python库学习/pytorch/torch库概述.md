@@ -21,7 +21,7 @@ PyTorch是一个常用的深度学习框架，它提供了丰富的工具和库�
 以上只是PyTorch库中的一些常见模块和功能，还有其他许多模块和功能可用于不同的深度学习任务。PyTorch具有易用性和灵活性，并在学术界和工业界广泛应用。
 
 
-#### 检查pytorch是否安装成功、查看torch和cuda的版本
+#### 验证pytorch是否安装成功、查看torch和cuda的版本
 ```
 import torch # 如果pytorch安装成功即可导入
 print(torch.cuda.is_available()) # 查看CUDA是否可用

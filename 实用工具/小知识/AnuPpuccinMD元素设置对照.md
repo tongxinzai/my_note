@@ -41,12 +41,12 @@ modification date: 2023-05-23 周二 13:47:14
 ## checkbox（复选框）
 
 - [ ] Unchecked `- [ ]`
-- [x] Checked `- [x]` ✅ 2023-08-16
-- [ ] Rescheduled `- [>]`
+- [ ] Checked `- [x]`
+- [>] Rescheduled `- [>]`
 - [<] Scheduled `- [<]`
 - [!] Important `- [!]`
 - [-] Cancelled `- [-]`
-- [/] In Progress `- [/]`
+- [/]Progress `- [/]`
 - ["] Quote`- ["]`
 - [?] Question `- [?]`
 - [*] Star `- [*]`

@@ -1,10 +1,8 @@
 # RTMDet 原理和实现全解析
 ## 0 简介
 高性能，低延时的单阶段目标检测器
-<div align=center>
-<img alt="RTMDet_structure_v1.2" src="https://user-images.githubusercontent.com/27466624/200001002-008ac696-e74d-4da1-9c6d-07149e2ad752.jpg)
-</div>
-以上结构图由 RangeKing@github 绘制。
+
+
 最近一段时间，开源界涌现出了大量的高精度目标检测项目，其中最突出的就是 YOLO 系列，OpenMMLab 也在与社区的合作下推出了 MMYOLO。
 在调研了当前 YOLO 系列的诸多改进模型后，MMDetection 核心开发者针对这些设计以及训练方式进行了经验性的总结，并进行了优化，推出了高精度、低延时的单阶段目标检测器 RTMDet, **R**eal-**t**ime **M**odels for Object **Det**ection
 (**R**elease **t**o **M**anufacture)

@@ -7,8 +7,6 @@
 <font size=2>ICCV 2021.</font>
 <a href='https://arxiv.org/pdf/2103.14030.pdf'>[paper]</a> <a href='https://github.com/microsoft/Swin-Transformer'>[code]</a> 
 <br>
-<font size=3>解读者：沈豪，复旦大学博士，Datawhale成员</font>
-<br>
 </p>
 ## 前言
 《[Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/abs/2103.14030)》作为2021 ICCV最佳论文，屠榜了各大CV任务，性能优于DeiT、ViT和EfficientNet等主干网络，已经替代经典的CNN架构，成为了**计算机视觉领域通用的backbone**。它基于了ViT模型的思想，创新性的引入了**滑动窗口机制**，让模型能够学习到跨窗口的信息，同时也。同时通过**下采样层**，使得模型能够处理超分辨率的图片，节省计算量以及能够关注全局和局部的信息。而本文将从原理和代码角度详细解析Swin Transformer的架构。

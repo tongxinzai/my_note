@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "DIST_KD",
-      "path": "文献阅读/模型压缩相关/知识蒸馏/DIST_KD.md"
+      "basename": "Vit",
+      "path": "文献阅读/深度学习经典论文/Vit.md"
     },
     {
-      "basename": "SimKD",
-      "path": "文献阅读/模型压缩相关/知识蒸馏/SimKD.md"
+      "basename": "Transformer",
+      "path": "文献阅读/深度学习经典论文/Transformer.md"
     },
     {
-      "basename": "KD",
-      "path": "文献阅读/模型压缩相关/知识蒸馏/KD.md"
+      "basename": "DETR",
+      "path": "文献阅读/深度学习经典论文/DETR.md"
     },
     {
-      "basename": "good teacher",
-      "path": "文献阅读/模型压缩相关/知识蒸馏/good teacher.md"
+      "basename": "6.3 模型微调-timm",
+      "path": "编程相关/python/pytorch/章节/第六章/6.3 模型微调-timm.md"
     },
     {
-      "basename": "DKD",
-      "path": "文献阅读/模型压缩相关/知识蒸馏/DKD.md"
+      "basename": "5.1 PyTorch模型定义的方式",
+      "path": "编程相关/python/pytorch/章节/第五章/5.1 PyTorch模型定义的方式.md"
     },
     {
-      "basename": "VanillaKD  Revisit",
-      "path": "文献阅读/模型压缩相关/知识蒸馏/VanillaKD  Revisit.md"
-    },
-    {
-      "basename": "DeiT",
-      "path": "文献阅读/模型压缩相关/知识蒸馏/DeiT.md"
-    },
-    {
-      "basename": "Knowledge Distillation with the Reused Teacher Classifier",
-      "path": "文献阅读/Notetool/papers/Knowledge Distillation with the Reused Teacher Classifier.pdf"
-    },
-    {
-      "basename": "FGD",
-      "path": "文献阅读/模型压缩相关/知识蒸馏/FGD.md"
-    },
-    {
-      "basename": "知识蒸馏相关",
-      "path": "文献阅读/模型压缩相关/知识蒸馏/知识蒸馏相关.md"
-    },
-    {
-      "basename": "torch库概述",
-      "path": "编程相关/python/python库学习/pytorch/torch库概述.md"
-    },
-    {
-      "basename": "argparse库",
-      "path": "编程相关/python/python库学习/argparse库.md"
-    },
-    {
-      "basename": "conda相关",
-      "path": "编程相关/编辑器/conda相关.md"
-    },
-    {
-      "basename": "cmd常用命令",
-      "path": "编程相关/系统/cmd常用命令.md"
-    },
-    {
-      "basename": "0.2 评价指标",
-      "path": "编程相关/python/pytorch/章节/第零章/0.2 评价指标.md"
-    },
-    {
-      "basename": "0.1 人工智能简史",
-      "path": "编程相关/python/pytorch/章节/第零章/0.1 人工智能简史.md"
-    },
-    {
-      "basename": "2.1 张量",
-      "path": "编程相关/python/pytorch/章节/第二章/2.1 张量.md"
-    },
-    {
-      "basename": "进阶操作",
-      "path": "编程相关/python/pytorch/notebook/第零章 前置知识补充/进阶操作.ipynb"
-    },
-    {
-      "basename": "ubuntu基础知识",
-      "path": "编程相关/系统/ubuntu/ubuntu基础知识.md"
-    },
-    {
-      "basename": "各种报错解决方案",
-      "path": "编程相关/各种报错解决方案.md"
-    },
-    {
-      "basename": "chmod相关",
-      "path": "编程相关/系统/ubuntu/chmod相关.md"
-    },
-    {
-      "basename": "正则表达式",
-      "path": "编程相关/编辑器/正则表达式.md"
-    },
-    {
-      "basename": "01.01.02-Algorithm-Complexity",
-      "path": "编程相关/数据结构与算法/leetcode-notes/ch01/01.01/01.01.02-Algorithm-Complexity.md"
-    },
-    {
-      "basename": "01.01.01-Data-Structures-Algorithms",
-      "path": "编程相关/数据结构与算法/leetcode-notes/ch01/01.01/01.01.01-Data-Structures-Algorithms.md"
+      "basename": "6.6 使用argparse进行调参",
+      "path": "编程相关/python/pytorch/章节/第六章/6.6 使用argparse进行调参.md"
     },
     {
       "basename": "C++基础入门",
       "path": "编程相关/C++/C++基础/C++基础入门.md"
     },
     {
-      "basename": "--概述--",
-      "path": "日志/--概述--.md"
+      "basename": "vsode",
+      "path": "编程相关/编辑器/vsode.md"
     },
     {
-      "basename": "7.2023-09-04 2023-09-11",
-      "path": "日志/7.2023-09-04 2023-09-11.md"
+      "basename": "ubuntu基础知识",
+      "path": "编程相关/系统/ubuntu/ubuntu基础知识.md"
     },
     {
-      "basename": "vim基础语法",
-      "path": "编程相关/编辑器/vim基础语法.md"
+      "basename": "1. Python 安装及基本语法",
+      "path": "编程相关/python/python基础/1. Python 安装及基本语法.md"
     },
     {
-      "basename": "jupyter notebook",
-      "path": "编程相关/编辑器/jupyter notebook.md"
+      "basename": "conda相关",
+      "path": "编程相关/编辑器/conda相关.md"
+    },
+    {
+      "basename": "torch库概述",
+      "path": "编程相关/python/python库学习/pytorch/torch库概述.md"
+    },
+    {
+      "basename": "VanillaKD  Revisit the Power of Vanilla Knowledge Distillation from Small Scale to Large Scale",
+      "path": "文献阅读/Notetool/papers/VanillaKD  Revisit the Power of Vanilla Knowledge Distillation from Small Scale to Large Scale.pdf"
+    },
+    {
+      "basename": "good teacher",
+      "path": "文献阅读/模型压缩相关/知识蒸馏/good teacher.md"
+    },
+    {
+      "basename": "cmd常用命令",
+      "path": "编程相关/系统/cmd常用命令.md"
+    },
+    {
+      "basename": "chmod相关",
+      "path": "编程相关/系统/ubuntu/chmod相关.md"
+    },
+    {
+      "basename": "各种报错解决方案",
+      "path": "实用工具/小知识/各种报错解决方案.md"
+    },
+    {
+      "basename": "正则表达式",
+      "path": "编程相关/编辑器/正则表达式.md"
+    },
+    {
+      "basename": "VanillaKD  Revisit",
+      "path": "文献阅读/模型压缩相关/知识蒸馏/VanillaKD  Revisit.md"
+    },
+    {
+      "basename": "知识蒸馏相关",
+      "path": "文献阅读/模型压缩相关/知识蒸馏/知识蒸馏相关.md"
+    },
+    {
+      "basename": "DeiT",
+      "path": "文献阅读/模型压缩相关/知识蒸馏/DeiT.md"
+    },
+    {
+      "basename": "code_Architecture",
+      "path": "编程相关/python/pytorch/章节/第十章/figures/code_Architecture.png"
+    },
+    {
+      "basename": "bias0",
+      "path": "编程相关/python/pytorch/章节/第十章/figures/bias0.png"
+    },
+    {
+      "basename": "相对位置索引",
+      "path": "编程相关/python/pytorch/章节/第十章/figures/相对位置索引.png"
+    },
+    {
+      "basename": "绝对位置索引",
+      "path": "编程相关/python/pytorch/章节/第十章/figures/绝对位置索引.png"
+    },
+    {
+      "basename": "LSTM解读及实战",
+      "path": "编程相关/python/pytorch/章节/第十章/LSTM解读及实战.md"
+    },
+    {
+      "basename": "ResNet源码解读",
+      "path": "编程相关/python/pytorch/章节/第十章/ResNet源码解读.md"
+    },
+    {
+      "basename": "RNN详解及其实现",
+      "path": "编程相关/python/pytorch/章节/第十章/RNN详解及其实现.md"
+    },
+    {
+      "basename": "Swin-Transformer解读",
+      "path": "编程相关/python/pytorch/章节/第十章/Swin-Transformer解读.md"
+    },
+    {
+      "basename": "Transformer 解读",
+      "path": "编程相关/python/pytorch/章节/第十章/Transformer 解读.md"
+    },
+    {
+      "basename": "ViT解读",
+      "path": "编程相关/python/pytorch/章节/第十章/ViT解读.md"
+    },
+    {
+      "basename": "yolov5_description",
+      "path": "编程相关/python/pytorch/章节/第十章/YOLO系列解读/MMYOLO实现/yolov5_description.md"
+    },
+    {
+      "basename": "rtmdet_description",
+      "path": "编程相关/python/pytorch/章节/第十章/YOLO系列解读/MMYOLO实现/rtmdet_description.md"
+    },
+    {
+      "basename": "README",
+      "path": "编程相关/python/pytorch/章节/第十章/YOLO系列解读/MMYOLO实现/README.md"
+    },
+    {
+      "basename": "model_design",
+      "path": "编程相关/python/pytorch/章节/第十章/YOLO系列解读/MMYOLO实现/model_design.md"
+    },
+    {
+      "basename": "10.2 目标检测",
+      "path": "编程相关/python/pytorch/章节/第十章/10.2 目标检测.md"
+    },
+    {
+      "basename": "开源相关知识",
+      "path": "实用工具/小知识/开源相关知识.md"
+    },
+    {
+      "basename": "AnuPpuccinMD元素设置对照",
+      "path": "实用工具/小知识/AnuPpuccinMD元素设置对照.md"
     },
     {
       "basename": "git相关问题",
       "path": "实用工具/小知识/git相关问题.md"
     },
     {
-      "basename": "推理系统",
-      "path": "人工智能/模型推理相关/推理系统.md"
+      "basename": "Pasted image 20230927161439",
+      "path": "编程相关/python/pytorch/章节/第十章/figures/Pasted image 20230927161439.jpg"
     },
     {
-      "basename": "模型转换与优化",
-      "path": "人工智能/模型推理相关/模型转换与优化.md"
+      "basename": "5.4 PyTorh模型保存与读取",
+      "path": "编程相关/python/pytorch/章节/第五章/5.4 PyTorh模型保存与读取.md"
     },
     {
-      "basename": "04.programing",
-      "path": "人工智能/AI框架/框架基础/04.programing.md"
+      "basename": "5.3 PyTorch修改模型",
+      "path": "编程相关/python/pytorch/章节/第五章/5.3 PyTorch修改模型.md"
     },
     {
-      "basename": "03.history",
-      "path": "人工智能/AI框架/框架基础/03.history.md"
+      "basename": "5.2 利用模型块快速搭建复杂网络",
+      "path": "编程相关/python/pytorch/章节/第五章/5.2 利用模型块快速搭建复杂网络.md"
     },
     {
-      "basename": "02.fundamentals",
-      "path": "人工智能/AI框架/框架基础/02.fundamentals.md"
+      "basename": "3.4 模型构建",
+      "path": "编程相关/python/pytorch/章节/第三章/3.4 模型构建.md"
     },
     {
-      "basename": "01.introduction",
-      "path": "人工智能/AI框架/框架基础/01.introduction.md"
+      "basename": "3.3 数据读入",
+      "path": "编程相关/python/pytorch/章节/第三章/3.3 数据读入.md"
     },
     {
-      "basename": "tangent_adjoint",
-      "path": "人工智能/AI框架/自动微分/images/tangent_adjoint.png"
+      "basename": "4.4 FashionMNIST图像分类",
+      "path": "编程相关/python/pytorch/章节/第四章/4.4 FashionMNIST图像分类.md"
     },
     {
-      "basename": "reversed_mode",
-      "path": "人工智能/AI框架/自动微分/images/reversed_mode.png"
+      "basename": "4.1 ResNet",
+      "path": "编程相关/python/pytorch/章节/第四章/4.1 ResNet.md"
     },
     {
-      "basename": "jacobian",
-      "path": "人工智能/AI框架/自动微分/images/jacobian.png"
+      "basename": "3.9 优化器",
+      "path": "编程相关/python/pytorch/章节/第三章/3.9 优化器.md"
     },
     {
-      "basename": "forward_mode",
-      "path": "人工智能/AI框架/自动微分/images/forward_mode.png"
+      "basename": "Architecture",
+      "path": "编程相关/python/pytorch/章节/第十章/figures/Architecture.png"
     },
     {
-      "basename": "autodiff08",
-      "path": "人工智能/AI框架/自动微分/images/autodiff08.png"
-    },
-    {
-      "basename": "autodiff07",
-      "path": "人工智能/AI框架/自动微分/images/autodiff07.png"
-    },
-    {
-      "basename": "autodiff06",
-      "path": "人工智能/AI框架/自动微分/images/autodiff06.png"
-    },
-    {
-      "basename": "autodiff05",
-      "path": "人工智能/AI框架/自动微分/images/autodiff05.png"
-    },
-    {
-      "basename": "autodiff04",
-      "path": "人工智能/AI框架/自动微分/images/autodiff04.png"
-    },
-    {
-      "basename": "autodiff03",
-      "path": "人工智能/AI框架/自动微分/images/autodiff03.png"
-    },
-    {
-      "basename": "autodiff02",
-      "path": "人工智能/AI框架/自动微分/images/autodiff02.png"
-    },
-    {
-      "basename": "autodiff01",
-      "path": "人工智能/AI框架/自动微分/images/autodiff01.png"
-    },
-    {
-      "basename": "paradigm01",
-      "path": "人工智能/AI框架/框架基础/images/paradigm01.png"
-    },
-    {
-      "basename": "introduction01",
-      "path": "人工智能/AI框架/框架基础/images/introduction01.png"
+      "basename": "block",
+      "path": "编程相关/python/pytorch/章节/第十章/figures/block.jpg"
     }
   ],
   "omittedPaths": [

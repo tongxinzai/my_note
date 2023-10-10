@@ -7,8 +7,6 @@
 <font size=2>NIPS 2017.</font>
 <a href='https://arxiv.org/pdf/1706.03762.pdf'>[paper]</a> <a href='https://github.com/tensorflow/tensor2tensor'>[tensorflow]</a> <a href='https://github.com/harvardnlp/annotated-transformer'>[pytorch]</a> 
 <br>
-<font size=3>解读者：邹雨衡，对外经济贸易大学本科生，牛志康，西安电子科技大学本科生</font>
-<br>
 </p>
 ## 前言
 ​Attention （注意力）机制及其变体已经成为自然语言处理任务的一种基本网络架构，甚至在一定程度上取代了 RNN （循环神经网络）的主流地位，2018年取得了自然语言处理多项任务效果大幅提升的 BERT 模型便是基于 attention 机制搭建。但自2014年 attention 机制被提出至2017年，虽然被广泛应用到深度学习的各领域中，attention 机制更多的是作为 CNN（卷积神经网络）、RNN 的组件存在，自然语言处理的各种任务仍然是以 RNN 及其变体如 LSTM（长短期记忆递归神经网络）为主。

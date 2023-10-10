@@ -1,8 +1,6 @@
 # YOLOv5 原理和实现全解析
 ## 0 简介
-<div align=center >
-<img alt="YOLOv5_structure_v3.4" src="https://user-images.githubusercontent.com/27466624/200000324-70ae078f-cea7-4189-8baa-440656797dad.jpg)
-</div>
+![](../../figures/Pasted%20image%2020230927161439.jpg)
 以上结构图由 RangeKing@github 绘制。
 YOLOv5 是一个面向实时工业应用而开源的目标检测算法，受到了广泛关注。我们认为让 YOLOv5 爆火的原因不单纯在于 YOLOv5 算法本身的优异性，更多的在于开源库的实用和鲁棒性。简单来说 YOLOv5 开源库的主要特点为：
 1. **友好和完善的部署支持**

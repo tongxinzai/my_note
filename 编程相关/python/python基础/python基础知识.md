@@ -1,3 +1,61 @@
+#### Python函数中的*args, **kwargs是什么意思？如何使用？
+当我们在写程序时，不确定将来要往函数中传入多少个参数，即可使用可变参数（即不定长参数），用*args,**kwargs表示。
+- *args称之为Non-keyword Variable Arguments，无关键字参数；
+- **kwargs称之为keyword Variable Arguments，有关键字参数；
+- 当函数中以列表或者元组的形式传参时，就要使用*args；
+- 当传入字典形式的参数时，就要使用**kwargs。
+
+在Python中，`*args`和`**kwargs`是用于传递可变数量的参数的特殊语法。
+`*args`用于传递任意数量的位置参数，它将这些参数打包成一个元组（tuple）。在函数的定义中，`*args`可以接收任意数量的位置参数，并将它们作为元组传递给函数体。
+以下是一个示例：
+```python
+def my_function(*args):
+    for arg in args:
+        print(arg)
+
+my_function('apple', 'banana', 'cherry')
+```
+输出结果：
+```
+apple
+banana
+cherry
+```
+在上述示例中，`my_function`函数使用`*args`来接收任意数量的位置参数。传递的参数会被打包成一个元组，并在函数体中进行遍历打印。
+`**kwargs`用于传递任意数量的关键字参数，它将这些参数打包成一个字典（dictionary）。在函数的定义中，`**kwargs`可以接收任意数量的关键字参数，并将它们作为字典传递给函数体。
+以下是一个示例：
+```python
+def my_function(**kwargs):
+    for key, value in kwargs.items():
+        print(key, value)
+
+my_function(fruit='apple', color='red', price=1.99)
+```
+输出结果：
+```
+fruit apple
+color red
+price 1.99
+```
+在上述示例中，`my_function`函数使用`**kwargs`来接收任意数量的关键字参数。传递的参数会被打包成一个字典，并在函数体中进行遍历打印。
+可以同时在函数定义中使用`*args`和`**kwargs`来接收任意数量的位置参数和关键字参数。
+```python
+def my_function(*args, **kwargs):
+    for arg in args:
+        print(arg)
+    for key, value in kwargs.items():
+        print(key, value)
+
+my_function('apple', 'banana', fruit='cherry', color='red')
+```
+输出结果：
+```
+apple
+banana
+fruit cherry
+color red
+```
+在上述示例中，`my_function`函数同时使用`*args`和`**kwargs`来接收任意数量的位置参数和关键字参数，并在函数体中进行遍历打印。
 #### 缩进
 在 Python 中，缩进是非常重要的，因为它决定了代码块的层次结构和执行顺序。Python 的官方文档建议使用四个空格作为缩进单位。
 使用四个空格的主要好处是代码在不同编辑器和平台上显示一致，因为四个空格在任何编辑器中通常都会等于一个制表符的宽度。另外，使用空格而不是制表符可以避免不同编辑器对制表符宽度的解释不一致，导致代码在不同环境中错位。

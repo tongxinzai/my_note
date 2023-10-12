@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "0900de8864f25f24",
+        "id": "a2dfc085b3b447bf",
         "type": "tabs",
         "children": [
           {
-            "id": "7e252f42d4f4726c",
+            "id": "c95cb3c8da580d9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文献阅读/深度学习经典论文/Vit.md",
+                "file": "编程相关/python/python库学习/timm库/07d_tanh.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8832947892443fd9",
+            "id": "dd0fa0e3ba98ed68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程相关/python/pytorch/章节/第六章/6.6 使用argparse进行调参.md",
+                "file": "编程相关/python/pytorch/torch库概述.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "parser.parse_args",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文献阅读/深度学习经典论文/Vit.md",
+                "file": "编程相关/python/python库学习/timm库/07d_tanh.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文献阅读/深度学习经典论文/Vit.md",
+                "file": "编程相关/python/python库学习/timm库/07d_tanh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -180,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文献阅读/深度学习经典论文/Vit.md"
+                "file": "编程相关/python/python库学习/timm库/07d_tanh.md"
               }
             }
           }
@@ -201,54 +202,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7e252f42d4f4726c",
+  "active": "2754a38c61d5224e",
   "lastOpenFiles": [
-    "文献阅读/深度学习经典论文/Transformer.md",
-    "文献阅读/深度学习经典论文/DETR.md",
-    "编程相关/python/pytorch/章节/第六章/6.3 模型微调-timm.md",
-    "编程相关/python/pytorch/章节/第五章/5.1 PyTorch模型定义的方式.md",
-    "编程相关/python/pytorch/章节/第六章/6.6 使用argparse进行调参.md",
-    "编程相关/C++/C++基础/C++基础入门.md",
-    "编程相关/编辑器/vsode.md",
-    "编程相关/系统/ubuntu/ubuntu基础知识.md",
-    "编程相关/编辑器/vscode.md",
-    "编程相关/python/python基础/1. Python 安装及基本语法.md",
-    "编程相关/编辑器/conda相关.md",
-    "编程相关/python/python库学习/pytorch/torch库概述.md",
-    "文献阅读/Notetool/papers/VanillaKD  Revisit the Power of Vanilla Knowledge Distillation from Small Scale to Large Scale.pdf",
+    "编程相关/python/python库学习/timm库/07c_stepLR.md",
+    "编程相关/python/python库学习/timm库/index.md",
+    "编程相关/python/python库学习/timm库/07e_plateau.md",
+    "编程相关/python/python库学习/timm库/07d_tanh.md",
+    "编程相关/python/python库学习/timm库/07b_SGDR.md",
+    "编程相关/python/python库学习/timm库/07_schedulers.md",
+    "编程相关/python/python库学习/timm库/06a_tutorial_feature_extractor.md",
+    "编程相关/python/python库学习/timm库/05e_random_resized_crop.md",
+    "编程相关/python/python库学习/timm库/05b_RandAugment.md",
+    "编程相关/python/python库学习/timm库/05a_mixup_cutmix.md",
+    "文献阅读/模型压缩相关/知识蒸馏/SimKD.md",
     "文献阅读/模型压缩相关/知识蒸馏/good teacher.md",
-    "编程相关/系统/cmd常用命令.md",
-    "编程相关/系统/ubuntu/chmod相关.md",
-    "实用工具/小知识/各种报错解决方案.md",
-    "编程相关/编辑器/正则表达式.md",
-    "文献阅读/模型压缩相关/知识蒸馏/VanillaKD  Revisit.md",
-    "文献阅读/模型压缩相关/知识蒸馏/知识蒸馏相关.md",
+    "文献阅读/模型压缩相关/知识蒸馏/FGD.md",
+    "文献阅读/模型压缩相关/知识蒸馏/知识蒸馏相关p.md",
+    "文献阅读/模型压缩相关/知识蒸馏/DKD.md",
+    "文献阅读/模型压缩相关/知识蒸馏/DIST_KD.md",
     "文献阅读/模型压缩相关/知识蒸馏/DeiT.md",
-    "编程相关/python/pytorch/章节/第十章/figures/code_Architecture.png",
-    "编程相关/python/pytorch/章节/第十章/figures/bias0.png",
-    "编程相关/python/pytorch/章节/第十章/figures/相对位置索引.png",
-    "编程相关/python/pytorch/章节/第十章/figures/绝对位置索引.png",
-    "编程相关/python/pytorch/章节/第十章/LSTM解读及实战.md",
-    "编程相关/python/pytorch/章节/第十章/ResNet源码解读.md",
-    "编程相关/python/pytorch/章节/第十章/RNN详解及其实现.md",
-    "编程相关/python/pytorch/章节/第十章/Swin-Transformer解读.md",
-    "编程相关/python/pytorch/章节/第十章/Transformer 解读.md",
-    "编程相关/python/pytorch/章节/第十章/ViT解读.md",
-    "编程相关/python/pytorch/章节/第十章/figures/Pasted image 20230927161439.jpg",
-    "my_note.zip",
-    "编程相关/python/pytorch/章节/第十章/figures/Architecture.png",
-    "编程相关/python/pytorch/章节/第十章/figures/block.jpg",
-    "编程相关/python/pytorch/章节/第十章/YOLO系列解读/MMYOLO实现/resources/zhihu_qrcode.jpg",
-    "编程相关/python/pytorch/章节/第十章/YOLO系列解读/MMYOLO实现/resources/qq_group_qrcode.jpg",
-    "编程相关/python/pytorch/章节/第十章/YOLO系列解读/MMYOLO实现/resources/mmyolo-logo.png",
-    "编程相关/python/pytorch/notebook/第六章 PyTorch进阶训练技巧/PyTorch模型定义与进阶训练技巧.ipynb",
-    "编程相关/python/pytorch/notebook/第六章 PyTorch进阶训练技巧/利用Visdom可视化训练过程.ipynb",
-    "编程相关/python/pytorch/notebook/第四章 PyTorch基础实战/图像分类/果蔬分类/基础实战——果蔬分类.ipynb",
+    "文献阅读/模型压缩相关/知识蒸馏/VanillaKD  Revisit.md",
+    "编程相关/python/python库学习/timm库/04_Optimizers.md",
+    "编程相关/python/python库学习/timm库/03c_jsd_cross_entropy.md",
     "编程相关/python/pytorch/notebook/第零章 前置知识补充/进阶操作.ipynb",
-    "文献阅读/Notetool/papers/Knowledge Distillation with the Reused Teacher Classifier.pdf",
-    "编程相关/系统/ubuntu",
-    "编程相关/C++/C++基础",
-    "编程相关/C++",
+    "编程相关/python/pytorch/torch库概述.md",
+    "计算机基础相关/系统/ubuntu/conda相关.md",
+    "计算机基础相关/系统/ubuntu/ubuntu基础知识.md",
+    "计算机基础相关/系统/cmd常用命令.md",
+    "人工智能/神经网络压缩加速/模型压缩与加速（综述）.md",
+    "编程相关/python/python库学习/timm库/03b_asymmetric_loss.md",
+    "编程相关/python/pytorch/notebook/第八章 PyTorch生态简介/transforms.ipynb",
+    "文献阅读/模型压缩相关/图片/知识蒸馏/VanillaKD Revisit/tab3.png",
+    "编程相关/python/python库学习/timm库/figure/augmix.png",
+    "编程相关/python/python库学习/timm库/figure/Tanh_LU.png",
+    "编程相关/python/python库学习/timm库/figure/Tanh.png",
+    "编程相关/python/python库学习/timm库/figure/StepLR.png",
+    "编程相关/python/python库学习/timm库/figure/SGDR.png",
+    "编程相关/python/python库学习/timm库/figure/SGDR_params.png",
+    "编程相关/python/python库学习/timm库/figure/resnet34.png",
+    "编程相关/python/python库学习/timm库/figure/random_erase.png",
+    "编程相关/python/python库学习/timm库/figure/pretrained_weights.png",
+    "编程相关/python/python库学习/timm库/images",
+    "编程相关/python/python库学习/images",
+    "计算机基础相关/计算机操作系统/images",
+    "计算机基础相关/计算机操作系统",
+    "计算机基础相关/计算机基础知识/images",
+    "计算机基础相关/计算机基础知识",
+    "计算机基础相关/计算机网络/images",
+    "计算机基础相关/计算机网络",
     "Untitled.canvas"
   ]
 }

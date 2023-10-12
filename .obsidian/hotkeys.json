@@ -1,31 +1,4 @@
 {
-  "obsidian-git:push2": [
-    {
-      "modifiers": [
-        "Mod",
-        "Alt"
-      ],
-      "key": "P"
-    }
-  ],
-  "obsidian-git:commit": [
-    {
-      "modifiers": [
-        "Mod",
-        "Alt"
-      ],
-      "key": "C"
-    }
-  ],
-  "obsidian-git:pull": [
-    {
-      "modifiers": [
-        "Mod",
-        "Alt"
-      ],
-      "key": "L"
-    }
-  ],
   "workspace:goto-tab-1": [],
   "workspace:goto-tab-2": [],
   "workspace:goto-tab-3": [],
@@ -33,5 +6,14 @@
   "workspace:goto-tab-5": [],
   "workspace:goto-tab-6": [],
   "workspace:goto-tab-7": [],
-  "workspace:goto-tab-8": []
+  "workspace:goto-tab-8": [],
+  "workspace:split-vertical": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "F"
+    }
+  ]
 }

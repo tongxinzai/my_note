@@ -1,8 +1,168 @@
 {
   "recentFiles": [
     {
+      "basename": "CRD",
+      "path": "文献阅读/模型压缩相关/知识蒸馏/CRD.md"
+    },
+    {
+      "basename": "pycharm相关",
+      "path": "编程相关/编辑器/pycharm相关.md"
+    },
+    {
+      "basename": "notes",
+      "path": "文献阅读/Notetool/notes.md"
+    },
+    {
+      "basename": "DeiT",
+      "path": "文献阅读/模型压缩相关/知识蒸馏/DeiT.md"
+    },
+    {
+      "basename": "知识蒸馏相关",
+      "path": "文献阅读/模型压缩相关/知识蒸馏/知识蒸馏相关.md"
+    },
+    {
+      "basename": "蒸馏方法常见表格图片类型",
+      "path": "文献阅读/模型压缩相关/知识蒸馏/蒸馏方法常见表格图片类型.md"
+    },
+    {
+      "basename": "VanillaKD  Revisit",
+      "path": "文献阅读/模型压缩相关/知识蒸馏/VanillaKD  Revisit.md"
+    },
+    {
+      "basename": "vim",
+      "path": "编程相关/编辑器/图片/vim.gif"
+    },
+    {
+      "basename": "正则表达式",
+      "path": "编程相关/编辑器/正则表达式.md"
+    },
+    {
+      "basename": "regexp",
+      "path": "编程相关/编辑器/图片/regexp.png"
+    },
+    {
+      "basename": "python基础知识",
+      "path": "编程相关/python/python基础/python基础知识.md"
+    },
+    {
+      "basename": "import 相关",
+      "path": "编程相关/python/python库学习/import 相关.md"
+    },
+    {
+      "basename": "json",
+      "path": "编程相关/python/python库学习/json.md"
+    },
+    {
+      "basename": "logging",
+      "path": "编程相关/python/python库学习/logging.md"
+    },
+    {
+      "basename": "os库",
+      "path": "编程相关/python/python库学习/os库.md"
+    },
+    {
+      "basename": "sys",
+      "path": "编程相关/python/python库学习/sys.md"
+    },
+    {
+      "basename": "tensor 基础",
+      "path": "编程相关/python/python库学习/tensor 基础.md"
+    },
+    {
+      "basename": "time",
+      "path": "编程相关/python/python库学习/time.md"
+    },
+    {
+      "basename": "torchvision库",
+      "path": "编程相关/python/python库学习/torchvision库.md"
+    },
+    {
+      "basename": "00b_models",
+      "path": "编程相关/python/python库学习/timm库/00b_models.md"
+    },
+    {
+      "basename": "00a_model_architectures",
+      "path": "编程相关/python/python库学习/timm库/00a_model_architectures.md"
+    },
+    {
+      "basename": "2.2 自动求导",
+      "path": "编程相关/python/pytorch/章节/第二章/2.2 自动求导.md"
+    },
+    {
+      "basename": "0.1 人工智能简史",
+      "path": "编程相关/python/pytorch/章节/第零章/0.1 人工智能简史.md"
+    },
+    {
+      "basename": "multiple-gpus-concise",
+      "path": "人工智能/深度学习基础/代码/computational-performance/multiple-gpus-concise.md"
+    },
+    {
+      "basename": "multiple-gpus",
+      "path": "人工智能/深度学习基础/代码/computational-performance/multiple-gpus.md"
+    },
+    {
+      "basename": "02_dataset",
+      "path": "编程相关/python/python库学习/timm库/02_dataset.md"
+    },
+    {
+      "basename": "05a_mixup_cutmix",
+      "path": "编程相关/python/python库学习/timm库/05a_mixup_cutmix.md"
+    },
+    {
+      "basename": "05b_RandAugment",
+      "path": "编程相关/python/python库学习/timm库/05b_RandAugment.md"
+    },
+    {
+      "basename": "01b_training",
+      "path": "编程相关/python/python库学习/timm库/01b_training.md"
+    },
+    {
+      "basename": "01c_training_modelEMA",
+      "path": "编程相关/python/python库学习/timm库/01c_training_modelEMA.md"
+    },
+    {
+      "basename": "05c_RandomErase",
+      "path": "编程相关/python/python库学习/timm库/05c_RandomErase.md"
+    },
+    {
+      "basename": "04_Optimizers",
+      "path": "编程相关/python/python库学习/timm库/04_Optimizers.md"
+    },
+    {
+      "basename": "02b_dataloader",
+      "path": "编程相关/python/python库学习/timm库/02b_dataloader.md"
+    },
+    {
+      "basename": "00c_create_model",
+      "path": "编程相关/python/python库学习/timm库/00c_create_model.md"
+    },
+    {
+      "basename": "VanillaKD  Revisit the Power of Vanilla Knowledge Distillation from Small Scale to Large Scale",
+      "path": "文献阅读/Notetool/papers/VanillaKD  Revisit the Power of Vanilla Knowledge Distillation from Small Scale to Large Scale.pdf"
+    },
+    {
+      "basename": "2.3 并行计算简介",
+      "path": "编程相关/python/pytorch/章节/第二章/2.3 并行计算简介.md"
+    },
+    {
+      "basename": "01a_training_scripts",
+      "path": "编程相关/python/python库学习/timm库/01a_training_scripts.md"
+    },
+    {
       "basename": "07d_tanh",
       "path": "编程相关/python/python库学习/timm库/07d_tanh.md"
+    },
+    {
+      "basename": "ubuntu基础知识",
+      "path": "计算机基础相关/系统/ubuntu/ubuntu基础知识.md"
+    },
+    {
+      "basename": "Linux",
+      "path": "计算机基础相关/计算机基础知识/Linux.md"
+    },
+    {
+      "basename": "torch库概述",
+      "path": "编程相关/python/pytorch/torch库概述.md"
     },
     {
       "basename": "07c_stepLR",
@@ -33,172 +193,12 @@
       "path": "编程相关/python/python库学习/timm库/05e_random_resized_crop.md"
     },
     {
-      "basename": "05b_RandAugment",
-      "path": "编程相关/python/python库学习/timm库/05b_RandAugment.md"
-    },
-    {
-      "basename": "05a_mixup_cutmix",
-      "path": "编程相关/python/python库学习/timm库/05a_mixup_cutmix.md"
-    },
-    {
       "basename": "SimKD",
       "path": "文献阅读/模型压缩相关/知识蒸馏/SimKD.md"
     },
     {
       "basename": "good teacher",
       "path": "文献阅读/模型压缩相关/知识蒸馏/good teacher.md"
-    },
-    {
-      "basename": "FGD",
-      "path": "文献阅读/模型压缩相关/知识蒸馏/FGD.md"
-    },
-    {
-      "basename": "知识蒸馏相关p",
-      "path": "文献阅读/模型压缩相关/知识蒸馏/知识蒸馏相关p.md"
-    },
-    {
-      "basename": "DKD",
-      "path": "文献阅读/模型压缩相关/知识蒸馏/DKD.md"
-    },
-    {
-      "basename": "DIST_KD",
-      "path": "文献阅读/模型压缩相关/知识蒸馏/DIST_KD.md"
-    },
-    {
-      "basename": "DeiT",
-      "path": "文献阅读/模型压缩相关/知识蒸馏/DeiT.md"
-    },
-    {
-      "basename": "VanillaKD  Revisit",
-      "path": "文献阅读/模型压缩相关/知识蒸馏/VanillaKD  Revisit.md"
-    },
-    {
-      "basename": "04_Optimizers",
-      "path": "编程相关/python/python库学习/timm库/04_Optimizers.md"
-    },
-    {
-      "basename": "03c_jsd_cross_entropy",
-      "path": "编程相关/python/python库学习/timm库/03c_jsd_cross_entropy.md"
-    },
-    {
-      "basename": "进阶操作",
-      "path": "编程相关/python/pytorch/notebook/第零章 前置知识补充/进阶操作.ipynb"
-    },
-    {
-      "basename": "ubuntu基础知识",
-      "path": "计算机基础相关/系统/ubuntu/ubuntu基础知识.md"
-    },
-    {
-      "basename": "cmd常用命令",
-      "path": "计算机基础相关/系统/cmd常用命令.md"
-    },
-    {
-      "basename": "模型压缩与加速（综述）",
-      "path": "人工智能/神经网络压缩加速/模型压缩与加速（综述）.md"
-    },
-    {
-      "basename": "03b_asymmetric_loss",
-      "path": "编程相关/python/python库学习/timm库/03b_asymmetric_loss.md"
-    },
-    {
-      "basename": "03_loss.cross_entropy",
-      "path": "编程相关/python/python库学习/timm库/03_loss.cross_entropy.md"
-    },
-    {
-      "basename": "02b_dataloader",
-      "path": "编程相关/python/python库学习/timm库/02b_dataloader.md"
-    },
-    {
-      "basename": "02_dataset",
-      "path": "编程相关/python/python库学习/timm库/02_dataset.md"
-    },
-    {
-      "basename": "01c_training_modelEMA",
-      "path": "编程相关/python/python库学习/timm库/01c_training_modelEMA.md"
-    },
-    {
-      "basename": "01a_training_scripts",
-      "path": "编程相关/python/python库学习/timm库/01a_training_scripts.md"
-    },
-    {
-      "basename": "00c_create_model",
-      "path": "编程相关/python/python库学习/timm库/00c_create_model.md"
-    },
-    {
-      "basename": "00b_models",
-      "path": "编程相关/python/python库学习/timm库/00b_models.md"
-    },
-    {
-      "basename": "00a_model_architectures",
-      "path": "编程相关/python/python库学习/timm库/00a_model_architectures.md"
-    },
-    {
-      "basename": "transforms",
-      "path": "编程相关/python/pytorch/notebook/第八章 PyTorch生态简介/transforms.ipynb"
-    },
-    {
-      "basename": "01b_training",
-      "path": "编程相关/python/python库学习/timm库/01b_training.md"
-    },
-    {
-      "basename": "tab3",
-      "path": "文献阅读/模型压缩相关/图片/知识蒸馏/VanillaKD Revisit/tab3.png"
-    },
-    {
-      "basename": "3.9 优化器",
-      "path": "编程相关/python/pytorch/章节/第三章/3.9 优化器.md"
-    },
-    {
-      "basename": "0.2 评价指标",
-      "path": "编程相关/python/pytorch/章节/第零章/0.2 评价指标.md"
-    },
-    {
-      "basename": "知识蒸馏（综述）",
-      "path": "人工智能/神经网络压缩加速/知识蒸馏（综述）.md"
-    },
-    {
-      "basename": "深度学习杂七杂八",
-      "path": "人工智能/深度学习基础/笔记/深度学习杂七杂八.md"
-    },
-    {
-      "basename": "6.6 使用argparse进行调参",
-      "path": "编程相关/python/pytorch/章节/第六章/6.6 使用argparse进行调参.md"
-    },
-    {
-      "basename": "python基础知识",
-      "path": "编程相关/python/python基础/python基础知识.md"
-    },
-    {
-      "basename": "augmix",
-      "path": "编程相关/python/python库学习/timm库/figure/augmix.png"
-    },
-    {
-      "basename": "argparse库",
-      "path": "编程相关/python/python库学习/argparse库.md"
-    },
-    {
-      "basename": "vim基础语法",
-      "path": "编程相关/编辑器/vim基础语法.md"
-    },
-    {
-      "basename": "vsode",
-      "path": "编程相关/编辑器/vsode.md"
-    },
-    {
-      "basename": "正则表达式",
-      "path": "编程相关/编辑器/正则表达式.md"
-    },
-    {
-      "basename": "chmod相关",
-      "path": "计算机基础相关/系统/ubuntu/chmod相关.md"
-    },
-    {
-      "basename": "Linux",
-      "path": "计算机基础相关/计算机基础知识/Linux.md"
-    },
-    {
-      "basename": "Git",
-      "path": "计算机基础相关/计算机基础知识/Git.md"
     }
   ],
   "omittedPaths": [

@@ -10,8 +10,8 @@
   "calendar",
   "obsidian-jupyter",
   "obsidian-regex-replace",
-  "recent-files-obsidian",
   "obsidian-outliner",
   "obsidian-git",
-  "language-translator"
+  "language-translator",
+  "recent-files-obsidian"
 ]

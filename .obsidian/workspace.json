@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a2dfc085b3b447bf",
+        "id": "f4d0e1e54c413cb1",
         "type": "tabs",
         "children": [
           {
-            "id": "c95cb3c8da580d9a",
+            "id": "47ddbc63916563d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程相关/python/python库学习/timm库/07d_tanh.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd0fa0e3ba98ed68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "编程相关/python/pytorch/torch库概述.md",
+                "file": "文献阅读/模型压缩相关/知识蒸馏/CRD.md",
                 "mode": "source",
                 "source": false
               }
@@ -41,7 +29,7 @@
     "type": "split",
     "children": [
       {
-        "id": "70a78a8e1ca4324f",
+        "id": "5c970d908349bdc1",
         "type": "tabs",
         "children": [
           {
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "生成可执行文件",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -70,27 +58,26 @@
             }
           },
           {
+            "id": "76abb96f7632692b",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
             "id": "dd41357fe35d6f1d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "3f1a1a2f086552c8",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 238.00390625
   },
   "right": {
     "id": "d89965f6c83e0ed7",
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程相关/python/python库学习/timm库/07d_tanh.md",
+                "file": "文献阅读/模型压缩相关/知识蒸馏/CRD.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编程相关/python/python库学习/timm库/07d_tanh.md",
+                "file": "文献阅读/模型压缩相关/知识蒸馏/CRD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -181,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程相关/python/python库学习/timm库/07d_tanh.md"
+                "file": "文献阅读/模型压缩相关/知识蒸馏/CRD.md"
               }
             }
           }
@@ -189,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,36 +190,46 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2754a38c61d5224e",
+  "active": "64756994d440b978",
   "lastOpenFiles": [
-    "编程相关/python/python库学习/timm库/07c_stepLR.md",
-    "编程相关/python/python库学习/timm库/index.md",
-    "编程相关/python/python库学习/timm库/07e_plateau.md",
-    "编程相关/python/python库学习/timm库/07d_tanh.md",
-    "编程相关/python/python库学习/timm库/07b_SGDR.md",
-    "编程相关/python/python库学习/timm库/07_schedulers.md",
-    "编程相关/python/python库学习/timm库/06a_tutorial_feature_extractor.md",
-    "编程相关/python/python库学习/timm库/05e_random_resized_crop.md",
-    "编程相关/python/python库学习/timm库/05b_RandAugment.md",
-    "编程相关/python/python库学习/timm库/05a_mixup_cutmix.md",
-    "文献阅读/模型压缩相关/知识蒸馏/SimKD.md",
-    "文献阅读/模型压缩相关/知识蒸馏/good teacher.md",
-    "文献阅读/模型压缩相关/知识蒸馏/FGD.md",
-    "文献阅读/模型压缩相关/知识蒸馏/知识蒸馏相关p.md",
-    "文献阅读/模型压缩相关/知识蒸馏/DKD.md",
-    "文献阅读/模型压缩相关/知识蒸馏/DIST_KD.md",
+    "数学基础",
+    "编程相关/编辑器/pycharm相关.md",
+    "文献阅读/Notetool/notes.md",
     "文献阅读/模型压缩相关/知识蒸馏/DeiT.md",
+    "文献阅读/模型压缩相关/知识蒸馏/知识蒸馏相关.md",
+    "文献阅读/模型压缩相关/知识蒸馏/CRD.md",
+    "文献阅读/模型压缩相关/知识蒸馏/蒸馏方法常见表格图片类型.md",
+    "文献阅读/Notetool/papers/Correlation Congruence for Knowledge Distillation.pdf",
+    "文献阅读/Notetool/papers/1904.01802.pdf",
+    "文献阅读/Notetool/NoteTool.exe",
+    "文献阅读/Notetool/papers/NoteTool.exe",
+    "文献阅读/Notetool/papers/[Re] Distilling Knowledge via Knowledge Review.pdf",
+    "文献阅读/Notetool/papers/2205.11246.pdf",
+    "文献阅读/Notetool/papers/Relational Knowledge Distillation.pdf",
+    "文献阅读/Notetool/papers/1904.05068.pdf",
+    "文献阅读/Notetool/papers/Contrastive Representation Distillation.pdf",
+    "文献阅读/Notetool/papers/1910.10699.pdf",
     "文献阅读/模型压缩相关/知识蒸馏/VanillaKD  Revisit.md",
-    "编程相关/python/python库学习/timm库/04_Optimizers.md",
-    "编程相关/python/python库学习/timm库/03c_jsd_cross_entropy.md",
-    "编程相关/python/pytorch/notebook/第零章 前置知识补充/进阶操作.ipynb",
-    "编程相关/python/pytorch/torch库概述.md",
-    "计算机基础相关/系统/ubuntu/conda相关.md",
-    "计算机基础相关/系统/ubuntu/ubuntu基础知识.md",
-    "计算机基础相关/系统/cmd常用命令.md",
-    "人工智能/神经网络压缩加速/模型压缩与加速（综述）.md",
-    "编程相关/python/python库学习/timm库/03b_asymmetric_loss.md",
-    "编程相关/python/pytorch/notebook/第八章 PyTorch生态简介/transforms.ipynb",
+    "编程相关/编辑器/图片/vim.gif",
+    "编程相关/编辑器/正则表达式.md",
+    "编程相关/编辑器/图片/regexp.png",
+    "编程相关/python/python基础/python基础知识.md",
+    "编程相关/python/python库学习/import 相关.md",
+    "编程相关/python/python库学习/json.md",
+    "编程相关/python/python库学习/logging.md",
+    "编程相关/python/python库学习/os库.md",
+    "编程相关/python/python库学习/sys.md",
+    "编程相关/python/python库学习/tensor 基础.md",
+    "编程相关/python/python库学习/time.md",
+    "编程相关/python/python库学习/torchvision库.md",
+    "编程相关/python/python库学习/timm库/00b_models.md",
+    "编程相关/python/python库学习/timm库/00a_model_architectures.md",
+    "编程相关/python/pytorch/章节/第二章/2.2 自动求导.md",
+    "编程相关/python/pytorch/章节/第零章/0.1 人工智能简史.md",
+    "人工智能/深度学习基础/代码/computational-performance/multiple-gpus-concise.md",
+    "人工智能/深度学习基础/note/23-环境和分布偏移.md",
+    "人工智能/深度学习基础/代码/computational-performance/multiple-gpus.md",
+    "编程相关/python/python库学习/timm库/02_dataset.md",
     "文献阅读/模型压缩相关/图片/知识蒸馏/VanillaKD Revisit/tab3.png",
     "编程相关/python/python库学习/timm库/figure/augmix.png",
     "编程相关/python/python库学习/timm库/figure/Tanh_LU.png",
@@ -240,16 +238,6 @@
     "编程相关/python/python库学习/timm库/figure/SGDR.png",
     "编程相关/python/python库学习/timm库/figure/SGDR_params.png",
     "编程相关/python/python库学习/timm库/figure/resnet34.png",
-    "编程相关/python/python库学习/timm库/figure/random_erase.png",
-    "编程相关/python/python库学习/timm库/figure/pretrained_weights.png",
-    "编程相关/python/python库学习/timm库/images",
-    "编程相关/python/python库学习/images",
-    "计算机基础相关/计算机操作系统/images",
-    "计算机基础相关/计算机操作系统",
-    "计算机基础相关/计算机基础知识/images",
-    "计算机基础相关/计算机基础知识",
-    "计算机基础相关/计算机网络/images",
-    "计算机基础相关/计算机网络",
     "Untitled.canvas"
   ]
 }

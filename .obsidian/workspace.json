@@ -4,18 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "f4d0e1e54c413cb1",
+        "id": "30625ad7705fcd56",
         "type": "tabs",
         "children": [
           {
-            "id": "47ddbc63916563d0",
+            "id": "7b334d90e8d08846",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文献阅读/模型压缩相关/知识蒸馏/CRD.md",
+                "file": "人工智能/神经网络压缩加速/模型压缩方法原理概述.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "d87451d8d94290b2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "文献阅读/Notetool/papers/VanillaKD  Revisit the Power of Vanilla Knowledge Distillation from Small Scale to Large Scale.pdf"
               }
             }
           }
@@ -48,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "生成可执行文件",
+                "query": "git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,11 +83,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 238.00390625
+    "width": 200
   },
   "right": {
     "id": "d89965f6c83e0ed7",
@@ -94,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文献阅读/模型压缩相关/知识蒸馏/CRD.md",
+                "file": "人工智能/神经网络压缩加速/模型压缩方法原理概述.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文献阅读/模型压缩相关/知识蒸馏/CRD.md",
+                "file": "人工智能/神经网络压缩加速/模型压缩方法原理概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -155,7 +166,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "c822ecd96305b6fb",
@@ -168,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文献阅读/模型压缩相关/知识蒸馏/CRD.md"
+                "file": "人工智能/神经网络压缩加速/模型压缩方法原理概述.md"
               }
             }
           }
@@ -190,54 +201,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "64756994d440b978",
+  "active": "7b334d90e8d08846",
   "lastOpenFiles": [
-    "数学基础",
-    "编程相关/编辑器/pycharm相关.md",
-    "文献阅读/Notetool/notes.md",
-    "文献阅读/模型压缩相关/知识蒸馏/DeiT.md",
-    "文献阅读/模型压缩相关/知识蒸馏/知识蒸馏相关.md",
-    "文献阅读/模型压缩相关/知识蒸馏/CRD.md",
-    "文献阅读/模型压缩相关/知识蒸馏/蒸馏方法常见表格图片类型.md",
-    "文献阅读/Notetool/papers/Correlation Congruence for Knowledge Distillation.pdf",
-    "文献阅读/Notetool/papers/1904.01802.pdf",
-    "文献阅读/Notetool/NoteTool.exe",
-    "文献阅读/Notetool/papers/NoteTool.exe",
-    "文献阅读/Notetool/papers/[Re] Distilling Knowledge via Knowledge Review.pdf",
-    "文献阅读/Notetool/papers/2205.11246.pdf",
-    "文献阅读/Notetool/papers/Relational Knowledge Distillation.pdf",
-    "文献阅读/Notetool/papers/1904.05068.pdf",
-    "文献阅读/Notetool/papers/Contrastive Representation Distillation.pdf",
-    "文献阅读/Notetool/papers/1910.10699.pdf",
+    "文献阅读/Notetool/papers/VanillaKD  Revisit the Power of Vanilla Knowledge Distillation from Small Scale to Large Scale.pdf",
+    "人工智能/神经网络压缩加速/模型压缩方法原理概述.md",
+    "数学基础/概率论与数理统计/概率论与数理统计笔记.md",
     "文献阅读/模型压缩相关/知识蒸馏/VanillaKD  Revisit.md",
-    "编程相关/编辑器/图片/vim.gif",
-    "编程相关/编辑器/正则表达式.md",
-    "编程相关/编辑器/图片/regexp.png",
-    "编程相关/python/python基础/python基础知识.md",
-    "编程相关/python/python库学习/import 相关.md",
-    "编程相关/python/python库学习/json.md",
-    "编程相关/python/python库学习/logging.md",
-    "编程相关/python/python库学习/os库.md",
-    "编程相关/python/python库学习/sys.md",
-    "编程相关/python/python库学习/tensor 基础.md",
-    "编程相关/python/python库学习/time.md",
-    "编程相关/python/python库学习/torchvision库.md",
-    "编程相关/python/python库学习/timm库/00b_models.md",
-    "编程相关/python/python库学习/timm库/00a_model_architectures.md",
-    "编程相关/python/pytorch/章节/第二章/2.2 自动求导.md",
-    "编程相关/python/pytorch/章节/第零章/0.1 人工智能简史.md",
-    "人工智能/深度学习基础/代码/computational-performance/multiple-gpus-concise.md",
-    "人工智能/深度学习基础/note/23-环境和分布偏移.md",
-    "人工智能/深度学习基础/代码/computational-performance/multiple-gpus.md",
-    "编程相关/python/python库学习/timm库/02_dataset.md",
-    "文献阅读/模型压缩相关/图片/知识蒸馏/VanillaKD Revisit/tab3.png",
-    "编程相关/python/python库学习/timm库/figure/augmix.png",
-    "编程相关/python/python库学习/timm库/figure/Tanh_LU.png",
-    "编程相关/python/python库学习/timm库/figure/Tanh.png",
-    "编程相关/python/python库学习/timm库/figure/StepLR.png",
-    "编程相关/python/python库学习/timm库/figure/SGDR.png",
-    "编程相关/python/python库学习/timm库/figure/SGDR_params.png",
-    "编程相关/python/python库学习/timm库/figure/resnet34.png",
+    "文献阅读/模型压缩相关/知识蒸馏/知识蒸馏相关.md",
+    "文献阅读/模型压缩相关/知识蒸馏/FGD.md",
+    "文献阅读/模型压缩相关/知识蒸馏/KD.md",
+    "文献阅读/模型压缩相关/知识蒸馏/SimKD.md",
+    "文献阅读/深度学习经典论文/DETR.md",
+    "文献阅读/深度学习经典论文/Transformer.md",
+    "文献阅读/深度学习经典论文/Vit.md",
+    "文献阅读/Notetool/notes.md",
+    "人工智能/神经网络压缩加速/NAS相关.md",
+    "人工智能/神经网络压缩加速/深度神经网络结构搜索（综述）.md",
+    "人工智能/神经网络压缩加速/模型压缩与加速（综述）.md",
+    "文献阅读/模型压缩相关/知识蒸馏/蒸馏方法常见表格图片类型.md",
+    "文献阅读/模型压缩相关/知识蒸馏/DeiT.md",
+    "文献阅读/模型压缩相关/知识蒸馏/CRD.md",
+    "文献阅读/模型压缩相关/知识蒸馏/DIST_KD.md",
+    "文献阅读/模型压缩相关/知识蒸馏/DKD.md",
+    "文献阅读/模型压缩相关/知识蒸馏/good teacher.md",
+    "人工智能/神经网络压缩加速/知识蒸馏（综述）.md",
+    "数学基础/概率论与数理统计/image/ch1/AminusB.png",
+    "数学基础/概率论与数理统计/image/ch1/AcupB.png",
+    "数学基础/概率论与数理统计/image/ch1/AcapB.png",
+    "实用工具/小知识/git相关问题.md",
+    "计算机基础相关/计算机基础知识/Git.md",
+    "计算机基础相关/计算机基础知识/Linux.md",
+    "数学基础/线性代数/index.md",
+    "数学基础/线性代数/notes",
+    "数学基础/线性代数/images",
+    "数学基础/线性代数/images/chapter35_files/chapter35_1_0.png",
+    "数学基础/线性代数/images/chapter31_files/chapter31_4_0.png",
+    "数学基础/线性代数/images/chapter31_files/chapter31_1_0.png",
+    "数学基础/线性代数/images/chapter16_files/chapter16_1_0.png",
+    "数学基础/线性代数/images/chapter15_files/chapter15_4_0.png",
+    "数学基础/线性代数/images/chapter15_files/chapter15_1_0.png",
+    "数学基础/线性代数/images/chapter12_files/chapter12_3_0.png",
+    "数学基础/线性代数/images/chapter35_files",
+    "数学基础/线性代数/images/chapter31_files",
+    "数学基础/线性代数/images/chapter16_files",
+    "数学基础/线性代数/images/chapter15_files",
+    "数学基础/线性代数/images/chapter12_files",
+    "数学基础/线性代数/images/chapter01_files",
+    "数学基础/线性代数",
     "Untitled.canvas"
   ]
 }

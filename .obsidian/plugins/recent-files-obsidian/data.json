@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "CRD",
-      "path": "文献阅读/模型压缩相关/知识蒸馏/CRD.md"
-    },
-    {
-      "basename": "pycharm相关",
-      "path": "编程相关/编辑器/pycharm相关.md"
-    },
-    {
-      "basename": "notes",
-      "path": "文献阅读/Notetool/notes.md"
-    },
-    {
-      "basename": "DeiT",
-      "path": "文献阅读/模型压缩相关/知识蒸馏/DeiT.md"
-    },
-    {
-      "basename": "知识蒸馏相关",
-      "path": "文献阅读/模型压缩相关/知识蒸馏/知识蒸馏相关.md"
-    },
-    {
-      "basename": "蒸馏方法常见表格图片类型",
-      "path": "文献阅读/模型压缩相关/知识蒸馏/蒸馏方法常见表格图片类型.md"
-    },
-    {
-      "basename": "VanillaKD  Revisit",
-      "path": "文献阅读/模型压缩相关/知识蒸馏/VanillaKD  Revisit.md"
-    },
-    {
-      "basename": "vim",
-      "path": "编程相关/编辑器/图片/vim.gif"
-    },
-    {
-      "basename": "正则表达式",
-      "path": "编程相关/编辑器/正则表达式.md"
-    },
-    {
-      "basename": "regexp",
-      "path": "编程相关/编辑器/图片/regexp.png"
-    },
-    {
-      "basename": "python基础知识",
-      "path": "编程相关/python/python基础/python基础知识.md"
-    },
-    {
-      "basename": "import 相关",
-      "path": "编程相关/python/python库学习/import 相关.md"
-    },
-    {
-      "basename": "json",
-      "path": "编程相关/python/python库学习/json.md"
-    },
-    {
-      "basename": "logging",
-      "path": "编程相关/python/python库学习/logging.md"
-    },
-    {
-      "basename": "os库",
-      "path": "编程相关/python/python库学习/os库.md"
-    },
-    {
-      "basename": "sys",
-      "path": "编程相关/python/python库学习/sys.md"
-    },
-    {
-      "basename": "tensor 基础",
-      "path": "编程相关/python/python库学习/tensor 基础.md"
-    },
-    {
-      "basename": "time",
-      "path": "编程相关/python/python库学习/time.md"
-    },
-    {
-      "basename": "torchvision库",
-      "path": "编程相关/python/python库学习/torchvision库.md"
-    },
-    {
-      "basename": "00b_models",
-      "path": "编程相关/python/python库学习/timm库/00b_models.md"
-    },
-    {
-      "basename": "00a_model_architectures",
-      "path": "编程相关/python/python库学习/timm库/00a_model_architectures.md"
-    },
-    {
-      "basename": "2.2 自动求导",
-      "path": "编程相关/python/pytorch/章节/第二章/2.2 自动求导.md"
-    },
-    {
-      "basename": "0.1 人工智能简史",
-      "path": "编程相关/python/pytorch/章节/第零章/0.1 人工智能简史.md"
-    },
-    {
-      "basename": "multiple-gpus-concise",
-      "path": "人工智能/深度学习基础/代码/computational-performance/multiple-gpus-concise.md"
-    },
-    {
-      "basename": "multiple-gpus",
-      "path": "人工智能/深度学习基础/代码/computational-performance/multiple-gpus.md"
-    },
-    {
-      "basename": "02_dataset",
-      "path": "编程相关/python/python库学习/timm库/02_dataset.md"
-    },
-    {
-      "basename": "05a_mixup_cutmix",
-      "path": "编程相关/python/python库学习/timm库/05a_mixup_cutmix.md"
-    },
-    {
-      "basename": "05b_RandAugment",
-      "path": "编程相关/python/python库学习/timm库/05b_RandAugment.md"
-    },
-    {
-      "basename": "01b_training",
-      "path": "编程相关/python/python库学习/timm库/01b_training.md"
-    },
-    {
-      "basename": "01c_training_modelEMA",
-      "path": "编程相关/python/python库学习/timm库/01c_training_modelEMA.md"
-    },
-    {
-      "basename": "05c_RandomErase",
-      "path": "编程相关/python/python库学习/timm库/05c_RandomErase.md"
-    },
-    {
-      "basename": "04_Optimizers",
-      "path": "编程相关/python/python库学习/timm库/04_Optimizers.md"
-    },
-    {
-      "basename": "02b_dataloader",
-      "path": "编程相关/python/python库学习/timm库/02b_dataloader.md"
-    },
-    {
-      "basename": "00c_create_model",
-      "path": "编程相关/python/python库学习/timm库/00c_create_model.md"
+      "basename": "模型压缩方法原理概述",
+      "path": "人工智能/神经网络压缩加速/模型压缩方法原理概述.md"
     },
     {
       "basename": "VanillaKD  Revisit the Power of Vanilla Knowledge Distillation from Small Scale to Large Scale",
       "path": "文献阅读/Notetool/papers/VanillaKD  Revisit the Power of Vanilla Knowledge Distillation from Small Scale to Large Scale.pdf"
     },
     {
-      "basename": "2.3 并行计算简介",
-      "path": "编程相关/python/pytorch/章节/第二章/2.3 并行计算简介.md"
+      "basename": "概率论与数理统计笔记",
+      "path": "数学基础/概率论与数理统计/概率论与数理统计笔记.md"
     },
     {
-      "basename": "01a_training_scripts",
-      "path": "编程相关/python/python库学习/timm库/01a_training_scripts.md"
+      "basename": "VanillaKD  Revisit",
+      "path": "文献阅读/模型压缩相关/知识蒸馏/VanillaKD  Revisit.md"
     },
     {
-      "basename": "07d_tanh",
-      "path": "编程相关/python/python库学习/timm库/07d_tanh.md"
+      "basename": "知识蒸馏相关",
+      "path": "文献阅读/模型压缩相关/知识蒸馏/知识蒸馏相关.md"
     },
     {
-      "basename": "ubuntu基础知识",
-      "path": "计算机基础相关/系统/ubuntu/ubuntu基础知识.md"
+      "basename": "FGD",
+      "path": "文献阅读/模型压缩相关/知识蒸馏/FGD.md"
     },
     {
-      "basename": "Linux",
-      "path": "计算机基础相关/计算机基础知识/Linux.md"
-    },
-    {
-      "basename": "torch库概述",
-      "path": "编程相关/python/pytorch/torch库概述.md"
-    },
-    {
-      "basename": "07c_stepLR",
-      "path": "编程相关/python/python库学习/timm库/07c_stepLR.md"
-    },
-    {
-      "basename": "index",
-      "path": "编程相关/python/python库学习/timm库/index.md"
-    },
-    {
-      "basename": "07e_plateau",
-      "path": "编程相关/python/python库学习/timm库/07e_plateau.md"
-    },
-    {
-      "basename": "07b_SGDR",
-      "path": "编程相关/python/python库学习/timm库/07b_SGDR.md"
-    },
-    {
-      "basename": "07_schedulers",
-      "path": "编程相关/python/python库学习/timm库/07_schedulers.md"
-    },
-    {
-      "basename": "06a_tutorial_feature_extractor",
-      "path": "编程相关/python/python库学习/timm库/06a_tutorial_feature_extractor.md"
-    },
-    {
-      "basename": "05e_random_resized_crop",
-      "path": "编程相关/python/python库学习/timm库/05e_random_resized_crop.md"
+      "basename": "KD",
+      "path": "文献阅读/模型压缩相关/知识蒸馏/KD.md"
     },
     {
       "basename": "SimKD",
       "path": "文献阅读/模型压缩相关/知识蒸馏/SimKD.md"
     },
     {
+      "basename": "DETR",
+      "path": "文献阅读/深度学习经典论文/DETR.md"
+    },
+    {
+      "basename": "Transformer",
+      "path": "文献阅读/深度学习经典论文/Transformer.md"
+    },
+    {
+      "basename": "Vit",
+      "path": "文献阅读/深度学习经典论文/Vit.md"
+    },
+    {
+      "basename": "notes",
+      "path": "文献阅读/Notetool/notes.md"
+    },
+    {
+      "basename": "NAS相关",
+      "path": "人工智能/神经网络压缩加速/NAS相关.md"
+    },
+    {
+      "basename": "深度神经网络结构搜索（综述）",
+      "path": "人工智能/神经网络压缩加速/深度神经网络结构搜索（综述）.md"
+    },
+    {
+      "basename": "模型压缩与加速（综述）",
+      "path": "人工智能/神经网络压缩加速/模型压缩与加速（综述）.md"
+    },
+    {
+      "basename": "蒸馏方法常见表格图片类型",
+      "path": "文献阅读/模型压缩相关/知识蒸馏/蒸馏方法常见表格图片类型.md"
+    },
+    {
+      "basename": "DeiT",
+      "path": "文献阅读/模型压缩相关/知识蒸馏/DeiT.md"
+    },
+    {
+      "basename": "CRD",
+      "path": "文献阅读/模型压缩相关/知识蒸馏/CRD.md"
+    },
+    {
+      "basename": "DIST_KD",
+      "path": "文献阅读/模型压缩相关/知识蒸馏/DIST_KD.md"
+    },
+    {
+      "basename": "DKD",
+      "path": "文献阅读/模型压缩相关/知识蒸馏/DKD.md"
+    },
+    {
       "basename": "good teacher",
       "path": "文献阅读/模型压缩相关/知识蒸馏/good teacher.md"
+    },
+    {
+      "basename": "AminusB",
+      "path": "数学基础/概率论与数理统计/image/ch1/AminusB.png"
+    },
+    {
+      "basename": "AcupB",
+      "path": "数学基础/概率论与数理统计/image/ch1/AcupB.png"
+    },
+    {
+      "basename": "AcapB",
+      "path": "数学基础/概率论与数理统计/image/ch1/AcapB.png"
+    },
+    {
+      "basename": "git相关问题",
+      "path": "实用工具/小知识/git相关问题.md"
+    },
+    {
+      "basename": "Git",
+      "path": "计算机基础相关/计算机基础知识/Git.md"
+    },
+    {
+      "basename": "Linux",
+      "path": "计算机基础相关/计算机基础知识/Linux.md"
+    },
+    {
+      "basename": "index",
+      "path": "数学基础/线性代数/index.md"
+    },
+    {
+      "basename": "chapter01",
+      "path": "数学基础/线性代数/images/chapter01.md"
+    },
+    {
+      "basename": "chapter17",
+      "path": "数学基础/线性代数/images/chapter17.md"
+    },
+    {
+      "basename": "chapter18",
+      "path": "数学基础/线性代数/images/chapter18.md"
+    },
+    {
+      "basename": "chapter16",
+      "path": "数学基础/线性代数/images/chapter16.md"
+    },
+    {
+      "basename": "chapter23",
+      "path": "数学基础/线性代数/images/chapter23.md"
+    },
+    {
+      "basename": "chapter22",
+      "path": "数学基础/线性代数/images/chapter22.md"
+    },
+    {
+      "basename": "chapter21",
+      "path": "数学基础/线性代数/images/chapter21.md"
+    },
+    {
+      "basename": "chapter20",
+      "path": "数学基础/线性代数/images/chapter20.md"
+    },
+    {
+      "basename": "chapter19",
+      "path": "数学基础/线性代数/images/chapter19.md"
+    },
+    {
+      "basename": "chapter15",
+      "path": "数学基础/线性代数/images/chapter15.md"
+    },
+    {
+      "basename": "chapter14",
+      "path": "数学基础/线性代数/images/chapter14.md"
+    },
+    {
+      "basename": "chapter13",
+      "path": "数学基础/线性代数/images/chapter13.md"
+    },
+    {
+      "basename": "chapter12",
+      "path": "数学基础/线性代数/images/chapter12.md"
+    },
+    {
+      "basename": "chapter11",
+      "path": "数学基础/线性代数/images/chapter11.md"
+    },
+    {
+      "basename": "chapter10",
+      "path": "数学基础/线性代数/images/chapter10.md"
+    },
+    {
+      "basename": "chapter09",
+      "path": "数学基础/线性代数/images/chapter09.md"
+    },
+    {
+      "basename": "chapter08",
+      "path": "数学基础/线性代数/images/chapter08.md"
+    },
+    {
+      "basename": "chapter07",
+      "path": "数学基础/线性代数/images/chapter07.md"
+    },
+    {
+      "basename": "chapter06",
+      "path": "数学基础/线性代数/images/chapter06.md"
+    },
+    {
+      "basename": "chapter05",
+      "path": "数学基础/线性代数/images/chapter05.md"
+    },
+    {
+      "basename": "chapter04",
+      "path": "数学基础/线性代数/images/chapter04.md"
+    },
+    {
+      "basename": "chapter03",
+      "path": "数学基础/线性代数/images/chapter03.md"
     }
   ],
   "omittedPaths": [
